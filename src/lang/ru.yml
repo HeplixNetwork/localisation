@@ -59,3 +59,27 @@ RULES_COMMAND_HOVER: '§fНажмите сюда, чтобы перейти по
 NO_PERMS: '§cУ вас нет прав'
 NO_PERMS_GROUP: '§cУ вас нет прав, купите %s§c или выше'
 NO_PERMS_SHULKER_ONLY: '§cУ вас нет прав, данная функция только для §7§lSHULKER'
+
+KILL_MOB: '§6+%s %s за убийство моба'
+
+PLAYER_LEFT: '§fИгрок %s§f покинул игру'
+PING: '§cHeplix §8- §fВаш пинг §a%s §fms'
+RARITY: 'Редкость'
+
+UNKNOWN: 'Неизвестно'
+ANSWER_YES: 'Да'
+ANSWER_NO: 'Нет'
+ABSENT: 'Отсутствует'
+REMOVED: '§cУдалено'
+
+JOIN_PLAYER_LO_LOBBY: ' §a‣ %s §fзашел на сервер'
+
+NO_FOUND_PLAYER: '§cHeplix §8- §fОшибка! Игрок §e%s§f не найден или он оффлайн'
+NO_NEVER_PLAYER: '§cHeplix §8- §fОшибка! Игрок %s никогда прежде не играл на нашем проекте'
+
+PAGE_ARROW_GUI: 'страница'
+PAGE_ARROW1: '§aСледующая страница'
+PAGE_ARROW2: '§cПредыдущая страница'
+PAGE_ARROW_LORE:
+- '§7Нажмите для перехода'
+- '§7на %s страницу'
