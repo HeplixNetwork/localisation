@@ -132,14 +132,12 @@ GAMEMENU_DONATE_ITEM_LORE:
 
 GAMEMENU_MAINLOBBY_ITEM_NAME: '§bГлавное лобби'
 GAMEMENU_MAINLOBBY_ITEM_LORE:
-- '§7'
 - '§7Вернуться в главное лобби'
 - '§7'
 - '§e▸ Нажмите, чтобы выбрать лобби'
 
 GAMEMENU_ANARCHY_NAME: '§eАнархия'
 GAMEMENU_ANARCHY_LORE:
-- '§7'
 - '§7В этом режиме нету приватов,'
 - '§7и почти отсутствуют плагины.'
 - '§7Только хардкорное выживание'
@@ -149,7 +147,6 @@ GAMEMENU_ANARCHY_LORE:
 
 GAMEMENU_SKYBLOCK_NAME: '§aSkyBlock'
 GAMEMENU_SKYBLOCK_LORE:
-- '§7'
 - '§7Играйте с друзьями, стройте'
 - '§7свой крутой остров, собирайте'
 - '§7предметы, выполняйте квесты'
@@ -159,9 +156,6 @@ GAMEMENU_SKYBLOCK_LORE:
 
 GAMEMENU_QUARANTINE_NAME: '§cКарантин'
 GAMEMENU_QUARANTINE_LORE:
-- '§7'
-- '§c'
-- '§7'
 - '§e▸ Нажмите, чтобы подключиться'
 
 GAMEMENU_SLIMEFUN_NAME: '§bSlimeFun'
