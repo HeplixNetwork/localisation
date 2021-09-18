@@ -113,11 +113,9 @@ LIST_CMD: '%s§fНа сервере §a%s §f%s: %s'
 
 MESSAGE_NOT_FOUND: '§cСообщение %s не найдено'
 
-#gamemenu
 GUI_GAMEMENU_MAIN_NAME: '§0Игровое меню'
 GAMEMENU_ITEM_PROFILE_NAME: '§6Профиль'
 GAMEMENU_ITEM_PROFILE_LORE:
-- '§7'
 - '§7Смотрите свою статистику, используйте '
 - '§7донат-меню, изменяйте настройки'
 - '§7и многое другое '
@@ -126,7 +124,6 @@ GAMEMENU_ITEM_PROFILE_LORE:
 
 GAMEMENU_DONATE_ITEM_NAME: '§bПривилегии'
 GAMEMENU_DONATE_ITEM_LORE:
-- '§7'
 - '§7Все возможности привилегий'
 - '§7расписаны в этом разделе,'
 - '§7и на сайте нашего сервера'
