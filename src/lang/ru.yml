@@ -123,40 +123,19 @@ GAMEMENU_ITEM_PROFILE_LORE:
 - '§e▸ Нажмите, чтобы открыть профиль'
 
 GAMEMENU_DONATE_ITEM_NAME: '§bПривилегии'
-GAMEMENU_DONATE_ITEM_LORE:
-- '§7Все возможности привилегий'
-- '§7расписаны в этом разделе,'
-- '§7и на сайте нашего сервера'
-- '§7'
-- '§e▸ Нажмите, чтобы посмотреть привилегии'
+GAMEMENU_DONATE_ITEM_LORE: 'dawdaw'
 
 GAMEMENU_MAINLOBBY_ITEM_NAME: '§bГлавное лобби'
-GAMEMENU_MAINLOBBY_ITEM_LORE:
-- '§7Вернуться в главное лобби'
-- '§7'
-- '§e▸ Нажмите, чтобы выбрать лобби'
+GAMEMENU_MAINLOBBY_ITEM_LORE: 'dawdaw'
 
 GAMEMENU_ANARCHY_NAME: '§eАнархия'
-GAMEMENU_ANARCHY_LORE:
-- '§7В этом режиме нету приватов,'
-- '§7и почти отсутствуют плагины.'
-- '§7Только хардкорное выживание'
-- '§7без правил!'
-- '§7'
-- '§e▸ Нажмите, чтобы подключиться'
+GAMEMENU_ANARCHY_LORE: 'dawdaw'
 
 GAMEMENU_SKYBLOCK_NAME: '§aSkyBlock'
-GAMEMENU_SKYBLOCK_LORE:
-- '§7Играйте с друзьями, стройте'
-- '§7свой крутой остров, собирайте'
-- '§7предметы, выполняйте квесты'
-- '§7и многое другое!'
-- '§7'
-- '§e▸ Нажмите, чтобы подключиться'
+GAMEMENU_SKYBLOCK_LORE: 'dawdaw'
 
 GAMEMENU_QUARANTINE_NAME: '§cКарантин'
-GAMEMENU_QUARANTINE_LORE:
-- '§e▸ Нажмите, чтобы подключиться'
+GAMEMENU_QUARANTINE_LORE: 'dawdaw'
 
 GAMEMENU_SLIMEFUN_NAME: '§bSlimeFun'
 GAMEMENU_SLIMEFUN_LORE: 'fsefsef'
