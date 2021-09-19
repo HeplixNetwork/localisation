@@ -203,6 +203,26 @@ PROFILE_MAIN_ITEM_DONATE_NAME: 'fsfse7'
 PROFILE_MAIN_ITEM_DONATE_LORE: 
 - 'fsfse8'
 
+PROFILE_MAIN_ITEM_SETTINGS_NAME: 'Настройки'
+PROFILE_MAIN_ITEM_SETTINGS_LORE:
+- '§7Персональные настройки'
+
+PROFILE_MAIN_ITEM_LANG_NAME: 'Смена языка'
+PROFILE_MAIN_ITEM_LANG_LORE1:
+- '§7Смена языка на сервере'
+- '§7Перевод и языки будут дополняться!'
+- '§7'
+- '§7На данный момент доступны'
+
+PROFILE_MAIN_ITEM_LANG_LORE2:
+- '§7'
+- '§cВНИМАНИЕ! Если вы хотите помочь'
+- '§cс переводом, то можете писать свои'
+- '§cошибки по ссылке https://vk.cc/c62lCu'
+- '§7'
+- '§e▸ Открыть меню языков'
+
+
 DONATE_MENU_FAST_MESSAGE_NAME: 'fsfse9'
 DONATE_MENU_FAST_MESSAGE_LORE: 
 - 'fsfse11'
