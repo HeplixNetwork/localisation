@@ -189,7 +189,19 @@ ITEM_ALREADY_HAVE: '§bСундук удачи §8- §fУ вас уже есть
 PROFILE_MAIN_GUI_NAME: 'Профиль'
 PROFILE_MAIN_ITEM_PLAYER_NAME: '§bОбщая информация'
 PROFILE_MAIN_ITEM_PLAYER_LORE: 
-- '§fИнформация'
+- ' §fИнформация:'
+- '§7  Ваш ник: §f%s'
+- '§7  Статус: %s'
+- '§7  Рубинов: §c%s'
+- '§7  Монет: §6%s'
+- '§7  Сундуков удачи: §c%s'
+- ''
+- ' §fВаш уровень: §d%s '
+- ' §fОпыт: §a%s/§6%s §6%'
+- ''
+- ' §fВремени наиграно:'
+- '  §f%s'  
+- ''
 
 PROFILE_MAIN_ITEM_LEVEL_NAME: '§dУровень'
 PROFILE_MAIN_ITEM_LEVEL_LORE: 
