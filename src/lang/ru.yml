@@ -185,6 +185,7 @@ BOX_RUBY: '§cРубины §f(§c+%s§f)'
 ITEM_ALREADY_HAVE: '§bСундук удачи §8- §fУ вас уже есть данный предмет, вы получили §6+%s %s'
 #ITEM_DONATE_ALREADY_HAVE: //todo локализация
 
+
 #GUI
 #PROFILE
 PROFILE_MAIN_GUI_NAME: 'Профиль'
