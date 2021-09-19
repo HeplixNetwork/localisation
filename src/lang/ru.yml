@@ -132,18 +132,7 @@ GAMEMENU_LUCKYWARS_LORE: 'sfesfef'
 
 PROFILE_MAIN_GUI_NAME: 'Heplix - Профиль игрока'
 PROFILE_MAIN_ITEM_PLAYER_NAME: '§bОбщая информация'
-PROFILE_MAIN_ITEM_PLAYER_LORE:
-#- '§7Статус: %s'
-#- '§7'
-#- '§7Монет: §6%s'
-#- '§7Рубинов: §e%s'
-#- '§7'
-#- '§7Друзей: §f%s§7/§f%s'
-#- '§7'
-#- '§7Скин: §f%s'
-#- '§7'
-#- '§7Проведено времени на сервере:'
-#- '%s'
+
 
 ITEMS_LOBBY_ENABLE_LORE:
 - '§7Нажмите, чтобы отключить'
