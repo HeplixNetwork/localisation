@@ -165,8 +165,6 @@ HIDER_DISABLE_NAME: '§cСкрыть игроков'
 HIDER_DISABLE_LORE:
 - '§7Используйте этот предмет,'
 - '§7чтобы скрыть игроков'
-TITLE_JOIN_LOBBY: '§f' 
-SUBTITLE_JOIN_LOBBY: '§f'
 PROMO_ITEM_NAME: '§aСКИДКИ!'
 
 #BOX
