@@ -187,13 +187,34 @@ ITEM_ALREADY_HAVE: '§bСундук удачи §8- §fУ вас уже есть
 
 
 PROFILE_MAIN_GUI_NAME: 'Профиль'
-PROFILE_MAIN_ITEM_PLAYER_NAME: 'fsfse1'
+PROFILE_MAIN_ITEM_PLAYER_NAME: '§bОбщая информация'
 PROFILE_MAIN_ITEM_PLAYER_LORE: 
-- 'fsfse2'
+- ' §fИнформация:'
+- '§7  Ваш ник: §f%s'
+- '§7  Статус: %s'
+- '§7  Рубинов: §c%s'
+- '§7  Монет: §6%s'
+- '§7  Сундуков удачи: §c%s'
+- '§7'
+- ' §fВаш уровень: §d%s '
+- ' §fОпыт: §a%s/§6%s §6%'
+- '§7'
+- ' §fВремени наиграно:'
+- '  §f%s'  
+- '§7'
 
-PROFILE_MAIN_ITEM_LEVEL_NAME: 'fsfse3'
+PROFILE_MAIN_ITEM_LEVEL_NAME: 'Уровень'
 PROFILE_MAIN_ITEM_LEVEL_LORE: 
-- 'fsfse4'
+- '§7Играя на сервере, вы получаете'
+- '§7игровой опыт, который необходим'
+- '§7для поднятия вашего уровня'
+- '§7и получения особых наград.'
+- '§7'
+- '§7Уровень: §d%s %s §6%s'
+- '§7'
+- '§7До следующего уровня: §a%s XP'
+- '§7'
+- '§e▸ Открыть меню наград'
 
 PROFILE_MAIN_ITEM_INFO_NAME: 'fsfse5'
 PROFILE_MAIN_ITEM_INFO_LORE: 
@@ -203,9 +224,20 @@ PROFILE_MAIN_ITEM_DONATE_NAME: 'fsfse7'
 PROFILE_MAIN_ITEM_DONATE_LORE: 
 - 'fsfse8'
 
-PROFILE_MAIN_ITEM_SETTINGS_NAME: 'sefsefd'
+PROFILE_MAIN_ITEM_SETTINGS_NAME: 'Настройки'
 PROFILE_MAIN_ITEM_SETTINGS_LORE:
-- 'sefsefffdsd'
+- '§7Персональные настройки:'
+- '§8 ▪ §7Полет: %s'
+- '§8 ▪ §7Скрытие игроков: %s'
+- '§8 ▪ §7Чат: %s'
+- '§8 ▪ §7Музыка: %s'
+- '§8 ▪ §7Скорборд: %s'
+- '§8 ▪ §7Личные сообщения: %s'
+- '§8 ▪ §7Приглашения в друзья: %s'
+- '§8 ▪ §7Чат донатеров: %s'
+- '§8 ▪ §7Подсветка в лобби: %s'
+- '§7'
+- '§e▸ Открыть меню настроек'
 
 PROFILE_MAIN_ITEM_LANG_NAME: 'Смена языка'
 PROFILE_MAIN_ITEM_LANG_LORE1:
@@ -232,6 +264,13 @@ DONATE_MENU_PREFIX_LORE:
 DONATE_MENU_JOIN_MESSAGE_NAME: 'fsfse14'
 DONATE_MENU_JOIN_MESSAGE_LORE: 
 - 'fsfse15'
+
+DONATE_MENU_GUI: 'Меню донатера'
+DONATE_MENU_GUI_LORE:
+- '§7Дополнительные возможности'
+- '§7для донатеров'
+- '§7'
+- '§e▸ Нажмите, чтобы открыть меню'
 
 #BOARD
 BOARD_BED: 'Кровать'
