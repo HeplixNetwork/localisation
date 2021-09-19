@@ -129,11 +129,6 @@ GAMEMENU_BEDWARS_LORE: 'sefsef'
 GAMEMENU_LUCKYWARS_NAME: '§eLuckyWars'
 GAMEMENU_LUCKYWARS_LORE: 'sfesfef'
 
-
-PROFILE_MAIN_GUI_NAME: 'Heplix - Профиль игрока'
-PROFILE_MAIN_ITEM_PLAYER_NAME: '§bОбщая информация'
-
-
 ITEMS_LOBBY_ENABLE_LORE:
 - '§7Нажмите, чтобы отключить'
 ITEMS_LOBBY_DISABLE_LORE:
