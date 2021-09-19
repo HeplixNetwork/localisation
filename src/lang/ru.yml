@@ -135,7 +135,7 @@ COOLDOWN_2: '§cПодождите %s перед следующим исполь
 COOLDOWN_SEND_MESSAGE: '§cПодождите %s перед следующим использованием оффлайн сообщений (если вы будете писать друзьями, то лимита не будет)'
 AFK: '§cНе стой на месте!'
 
-BALANCE: '§6Баланс §8- §fНа вашем аккаунте %s' #todo вывод рубинов
+BALANCE: '§6Баланс §8- §fНа вашем аккаунте %s'
 
 MESSAGE_NOT_FOUND: '§cСообщение %s не найдено'
 
@@ -154,11 +154,6 @@ ERROR_COMMAND_IN_LOBBY: '§cДанная команда доступна тол�
 ERROR_TO_LOBBY: '§cОшибка при телепортации в лобби'
 CHANNEL_NOT_FOUND: '§cКанал %s не найден'
 
-
-
-
-
-
 #LOBBY MAIN
 #HIDER
 HIDER_COOLDOWN: '§cЧасы перегрелись, осталось %s до охлаждения...'
@@ -170,8 +165,8 @@ HIDER_DISABLE_NAME: '§cСкрыть игроков'
 HIDER_DISABLE_LORE:
 - '§7Используйте этот предмет,'
 - '§7чтобы скрыть игроков'
-TITLE_JOIN_LOBBY: '§f' #todo 
-SUBTITLE_JOIN_LOBBY: '§f' #todo 
+TITLE_JOIN_LOBBY: '§f' 
+SUBTITLE_JOIN_LOBBY: '§f'
 PROMO_ITEM_NAME: '§aСКИДКИ!'
 
 #BOX
@@ -190,24 +185,17 @@ BOX_RUBY: '§cРубины §f(§c+%s§f)'
 ITEM_ALREADY_HAVE: '§bСундук удачи §8- §fУ вас уже есть данный предмет, вы получили §6+%s %s'
 #ITEM_DONATE_ALREADY_HAVE: //todo локализация
 
-###########################
-
 #GUI
 #PROFILE
 PROFILE_MAIN_GUI_NAME: 'Профиль'
-
 PROFILE_MAIN_ITEM_PLAYER_NAME: 'fsfse1'
 PROFILE_MAIN_ITEM_PLAYER_LORE: 'fsfse2'
-
 PROFILE_MAIN_ITEM_LEVEL_NAME: 'fsfse3'
 PROFILE_MAIN_ITEM_LEVEL_LORE: 'fsfse4'
-
 PROFILE_MAIN_ITEM_INFO_NAME: 'fsfse5'
 PROFILE_MAIN_ITEM_INFO_LORE: 'fsfse6'
-
 PROFILE_MAIN_ITEM_DONATE_NAME: 'fsfse7'
 PROFILE_MAIN_ITEM_DONATE_LORE: 'fsfse8'
-
 #DONATE_MENU
 DONATE_MENU_FAST_MESSAGE_NAME: 'fsfse9'
 DONATE_MENU_FAST_MESSAGE_LORE: 'fsfse11'
@@ -215,10 +203,6 @@ DONATE_MENU_PREFIX_NAME: 'fsfse12'
 DONATE_MENU_PREFIX_LORE: 'fsfse13'
 DONATE_MENU_JOIN_MESSAGE_NAME: 'fsfse14'
 DONATE_MENU_JOIN_MESSAGE_LORE: 'fsfse15'
-
-
-
-###########################
 
 #BOARD
 BOARD_BED: 'Кровать'
@@ -282,9 +266,6 @@ BOARD_OWNER: 'Владелец'
 BOARD_RANK_YOU: 'Ваш ранг'
 
 REGION_NOT_FOUND: 'Не найден'
-
-
-
 
 #compass
 COMPASS_MESSAGE: '§fИгрок: %s      §fРасстояние: '
