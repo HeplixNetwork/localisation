@@ -112,9 +112,9 @@ KEYS_1:
 - 'ей'
 RUBY_1:
 - 'рубин'
-- ''
 - 'а'
 - 'ов'
+- ''
 
 FW: '§aСалют!'
 
@@ -259,8 +259,10 @@ ITEMS_LOBBY_FAST_LORE:
 - 'sefsef'
 
 PROFILE_BACK_ITEM_NAME: 'sefse'
-PROFILE_BACK_ITEM_LORE: 'ff'
-PROFILE_BACK_ITEM_LORE2: 'sef'
+PROFILE_BACK_ITEM_LORE: 
+- 'ff'
+PROFILE_BACK_ITEM_LORE2: 
+- 'sef'
 ITEMS_LOBBY_SELECTORS_NAME: 'sef'
 ITEMS_LOBBY_SELECTORS_LORE: 
 - 'fseefs'
@@ -269,19 +271,19 @@ BOARD_BOOSTERBOARD_BOOSTER_STATS_NO: '&cНет'
 
 PROFILE_MAIN_GUI_NAME: 'Профиль'
 PROFILE_MAIN_ITEM_PLAYER_NAME: '§bОбщая информация'
-PROFILE_MAIN_ITEM_PLAYER_LORE: 
-- ' §fИнформация:'
-- '§7  Ваш ник: §f%s'
-- '§7  Статус: %s'
-- '§7  Рубинов: §c%s'
-- '§7  Монет: §6%s'
-- ''
-- ' §fВаш уровень: §d%s '
-- ' §fОпыт: §a%s/§6%s §6%'
-- ''
-- ' §fВремени наиграно:'
-- '  §f%s'
-- ''
+#PROFILE_MAIN_ITEM_PLAYER_LORE: 
+#- ' §fИнформация:'
+#- '§7  Ваш ник: §f%s'
+#- '§7  Статус: %s'
+#- '§7  Рубинов: §c%s'
+#- '§7  Монет: §6%s'
+#- ''
+#- ' §fВаш уровень: §d%s '
+#- ' §fОпыт: §a%s/§6%s §6%'
+#- ''
+#- ' §fВремени наиграно:'
+# - '  §f%s'
+#- ''
 
 PROFILE_MAIN_ITEM_LEVEL_NAME: '§dУровень'
 PROFILE_MAIN_ITEM_LEVEL_LORE: 
