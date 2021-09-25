@@ -162,7 +162,7 @@ LOGIN_SUBTITLE: 'lsub'
 
 TIME_LEFT: 'timeleft'
 
-LIMIT_IP_REACHED: ''
+LIMIT_IP_REACHED: 'esf'
 ILLEGAL_NAME-CHARS: '&cВ вашем никнейме содержатся недопустимые символы!'
 ATTEMPTS_LIMIT: '&cВы достигли лимита ввода паролей!'
 AUTH_SERVERS_CONNECTION-REFUSED: '&CОШИБКА ПРИ ПОДКЛЮЧЕНИИ К СЕРВЕРУ АВТОРИЗАЦИИ. ПОЖАЛУЙСТА ПОПРОБУЙТЕ ПОЗЖЕ'
@@ -251,6 +251,21 @@ ITEMS_LOBBY_GADGETS_NAME: '§eКосметика §7[ПКМ]'
 ITEMS_LOBBY_GADGETS_LORE:
 - '§7Различные вещи для'
 - '§7развлечения в лобби'
+ITEMS_LOBBY_SHOP_NAME: 'sefes'
+ITEMS_LOBBY_SHOP_LORE: 
+- 'fs'
+ITEMS_LOBBY_FAST_NAME: 'sfef'
+ITEMS_LOBBY_FAST_LORE: 
+- 'sefsef'
+
+PROFILE_BACK_ITEM_NAME: 'sefse'
+PROFILE_BACK_ITEM_LORE: 'ff'
+PROFILE_BACK_ITEM_LORE2: 'sef'
+ITEMS_LOBBY_SELECTORS_NAME: 'sef'
+ITEMS_LOBBY_SELECTORS_LORE: 
+- 'fseefs'
+BOARD_BOOSTERBOARD_BOOSTER_STATS_NO: '&cНет'
+
 
 PROFILE_MAIN_GUI_NAME: 'Профиль'
 PROFILE_MAIN_ITEM_PLAYER_NAME: '§bОбщая информация'
@@ -595,7 +610,8 @@ GAMEMENU_LOBBY_LORE:
 GAMEMENU_ITEM_UPDATE_NAME: '§lОбновлено!'
 GAMEMENU_ITEM_NEW_NAME: '§lНовый!'
 GAMEMENU_ITEM_WIPE: '§lСделали вайп!'
-GAMEMENU_CLICKCONNECT_LORE: 'Нажмите, чтобы подключиться'
+GAMEMENU_CLICKCONNECT_LORE: 
+- 'Нажмите, чтобы подключиться'
 GAMEMENU_VERSION: '§fРекомендуемая версия для игры %s'
 
 #
