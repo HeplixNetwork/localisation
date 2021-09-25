@@ -258,31 +258,33 @@ ITEMS_LOBBY_FAST_NAME: 'sfef'
 ITEMS_LOBBY_FAST_LORE: 
 - 'sefsef'
 
-PROFILE_BACK_ITEM_NAME: 'sefse'
+PROFILE_BACK_ITEM_NAME: '§cНазад'
 PROFILE_BACK_ITEM_LORE: 
-- 'ff'
+- '§7Нажмите, чтобы вернуться'
+- '§7назад в профиль'
 PROFILE_BACK_ITEM_LORE2: 
-- 'sef'
+- '§7Нажмите, чтобы вернуться'
+- '§7назад в донат-меню'
 ITEMS_LOBBY_SELECTORS_NAME: 'sef'
 ITEMS_LOBBY_SELECTORS_LORE: 
 - 'fseefs'
-BOARD_BOOSTERBOARD_BOOSTER_STATS_NO: '   §cНет'
+BOARD_BOOSTERBOARD_BOOSTER_STATS_NO: '  §cНет'
 
 
 PROFILE_MAIN_GUI_NAME: 'Профиль'
 PROFILE_MAIN_ITEM_PLAYER_NAME: '§bОбщая информация'
-#PROFILE_MAIN_ITEM_PLAYER_LORE: 
-#- ' §fИнформация:'
-#- '§7  Ваш ник: §f%s'
-#- '§7  Статус: %s'
-#- '§7  Рубинов: §c%s'
-#- '§7  Монет: §6%s'
-#- ''
-#- ' §fВаш уровень: §d%s '
-#- ' §fОпыт: §a%s/§6%s §6%'
-#- ''
+PROFILE_MAIN_ITEM_PLAYER_LORE: 
+- ' §fИнформация:'
+- '§7  Ваш ник: §f%s'
+- '§7  Статус: %s'
+- '§7  Рубинов: §c%s'
+- '§7  Монет: §6%s'
+- ''
+- ' §fВаш уровень: §d%s '
+- ' §fОпыт: §a%s/§6%s'
+- ''
 #- ' §fВремени наиграно:'
-# - '  §f%s'
+#- '  §f%s'
 #- ''
 
 PROFILE_MAIN_ITEM_LEVEL_NAME: '§dУровень'
@@ -296,7 +298,7 @@ PROFILE_MAIN_ITEM_LEVEL_LORE:
 - ''
 - '§7До следующего уровня: §a%s XP'
 - ''
-- '§e▸ Открыть меню наград'
+- '§e▸ НажмитеБ чтобы открыть меню наград'
 
 PROFILE_MAIN_ITEM_INFO_NAME: 'fsfse5'
 PROFILE_MAIN_ITEM_INFO_LORE: 
@@ -309,6 +311,15 @@ PROFILE_MAIN_ITEM_DONATE_LORE:
 PROFILE_MAIN_ITEM_SETTINGS_NAME: 'Настройки'
 PROFILE_MAIN_ITEM_SETTINGS_LORE:
 - '§7Персональные настройки'
+- '§8 ▪ §7Кровь: %s'
+- '§8 ▪ §7Полет: %s'
+- '§8 ▪ §7Скрытие игроков: %s'
+- '§8 ▪ §7Чат: %s'
+- '§8 ▪ §7Звуки: %s'
+- '§8 ▪ §7Таблица справа: %s'
+- '§8 ▪ §7Донат-чат: %s'
+- ''
+- '§e▸ Нажмите, чтобы открыть меню настроек'
 
 PROFILE_MAIN_ITEM_LANG_NAME: 'Смена языка'
 PROFILE_MAIN_ITEM_LANG_LORE1:
