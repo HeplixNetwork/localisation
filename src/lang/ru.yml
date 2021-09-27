@@ -261,6 +261,7 @@ ITEMS_LOBBY_FAST_LORE:
 - 'sefsef'
 
 #DAILYREWARDS
+REWARDS_CANT_USE: 'hui'
 GUI_REWARDS_NAME: 'todo'
 GUI_REWARDS_ITEM_1_LORE:
 - '§6todo lore1'
@@ -363,6 +364,7 @@ ITEMS_GUI_BACK_NAME: '§cНазад'
 ITEMS_GUI_BACK_LORE:
 - '§7Нажмите, чтобы вернуться назад'
 
+#DONATEMENU
 DONATE_MENU_GUI: 'Меню донатера'
 DONATE_MENU_GUI_LORE:
 - '§7Кастомизация игрока на сервере.'
@@ -402,6 +404,28 @@ PREFIX_CHANGE_LORE2:
 - ''
 - '§aПрефикс выбран'
 
+DONATE_MENU_JOIN_MESSAGE_NAME: '§eСообщения при входе'
+DONATE_MENU_JOIN_MESSAGE_LORE:
+- '§8Собственные сообщения при входе на сервер'
+- ''
+- '§7Для быстрого открытия меню используйте'
+- '§7команду §a/jmsg §7или §a/joinmessage'
+- ''
+- '§e▸ Нажмите, чтобы открыть настройку сообщений'
+DONATE_MENU_GLOW_MESSAGE_NAME: '§bПодсветка вашего персонажа'
+DONATE_MENU_GLOW_MESSAGE_LORE:
+- '§8Персональное свечение в лобби'
+- ''
+- '§7Давно мечтали о выделении в лобби?'
+- '§7Тогда эта функция для вас!'
+- '§7При помощи её вы можете включить подсветку'
+- '§7вашего скина во всех лобби!'
+- ''
+- '  §fСТАТУС: §ftodo статус ДОСТУПНО/НЕДОСТУПНО'
+- '' 
+- '§e▸ Нажмите ПКМ, чтобы сменить'
+- '§e▸ Нажмите ЛКМ, чтобы открыть меню выбора цвета'
+
 DONATE_MENU_GUI: 'Меню донатера'
 DONATE_MENU_GUI_LORE:
 - '§7Дополнительные возможности'
@@ -410,19 +434,19 @@ DONATE_MENU_GUI_LORE:
 - '§e▸ Нажмите, чтобы открыть меню'
 
 #DONATE_GUI
-GUI_DONATE_GUI_NAME: 'Привилегии'
-GUI_DONATE_GUI_ITEM_NAME: '§bПривилегии'
+GUI_DONATE_GUI_NAME: 'Привилегия'
 
+GUI_DONATE_GUI_ITEM_NAME: '§bОсновные возможности'
 GUI_DONATE_GOLD_ITEM_LORE: 
-- 'gold_lore'
+- 'gold_mainlobby_lore'
 GUI_DONATE_DIAMOND_ITEM_LORE: 
-- 'diamond_lore'
+- 'diamond_mainlobby_lore'
 GUI_DONATE_EMERALD_ITEM_LORE: 
-- 'emerald_lore'
+- 'emerald_mainlobby_lore'
 GUI_DONATE_MAGMA_ITEM_LORE: 
-- 'magma_lore'
+- 'magma_mainlobby_lore'
 GUI_DONATE_SHULKER_ITEM_LORE: 
-- 'shulker_lore'
+- 'shulker_mainlobby_lore'
 
 #HELP MENU
 GUI_HELP_NAME: 'Информация'
