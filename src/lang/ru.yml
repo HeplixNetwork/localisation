@@ -259,6 +259,21 @@ ITEMS_LOBBY_SHOP_LORE:
 ITEMS_LOBBY_FAST_NAME: 'sfef'
 ITEMS_LOBBY_FAST_LORE: 
 - 'sefsef'
+#DAILYREWARDS
+GUI_REWARDS_NAME: 'todo'
+GUI_REWARDS_ITEM_1_LORE:
+- '§6todo lore1'
+GUI_REWARDS_ITEM_2_LORE:
+- '§6todo lore2'
+GUI_REWARDS_ITEM_3_LORE:
+- '§6todo lore3'
+GUI_REWARDS_ITEM_4_LORE:
+- '§6todo lore4'
+GUI_REWARDS_ITEM_5_LORE:
+- '§6todo lore5'
+GUI_REWARDS_ITEM_INFO_NAME: 'todo'
+GUI_REWARDS_ITEM_INFO_LORE:
+- '§6todo'
 
 PROFILE_BACK_ITEM_NAME: '§cНазад'
 PROFILE_BACK_ITEM_LORE: 
@@ -269,7 +284,7 @@ PROFILE_BACK_ITEM_LORE2:
 - '§7назад в донат-меню'
 ITEMS_LOBBY_SELECTORS_NAME: 'Выбор лобби'
 ITEMS_LOBBY_SELECTORS_LORE: 
-- '§7todo'
+- '§6todo'
 BOARD_BOOSTERBOARD_BOOSTER_STATS_NO: '  §cНет'
 
 
@@ -302,11 +317,11 @@ PROFILE_MAIN_ITEM_LEVEL_LORE:
 - ''
 - '§e▸ Нажмите, чтобы открыть меню наград'
 
-PROFILE_MAIN_ITEM_INFO_NAME: 'fsfse5'
+PROFILE_MAIN_ITEM_INFO_NAME: 'Помощь по серверу'
 PROFILE_MAIN_ITEM_INFO_LORE: 
 - 'fsfse6'
 
-PROFILE_MAIN_ITEM_DONATE_NAME: 'fsfse7'
+PROFILE_MAIN_ITEM_DONATE_NAME: '§eПривилегии'
 PROFILE_MAIN_ITEM_DONATE_LORE: 
 - 'fsfse8'
 
@@ -349,8 +364,11 @@ ITEMS_GUI_BACK_LORE:
 
 DONATE_MENU_GUI: 'Меню донатера'
 DONATE_MENU_GUI_LORE:
-- '§7Дополнительные возможности'
-- '§7для донатеров'
+- '§7Кастомизация игрока на сервере.'
+- ''
+- '§7В этом меню вы сможете выбрать цвет'
+- '§7вашего префикса, отправить быстрое'
+- '§7сообщение и многое другое'
 - ''
 - '§e▸ Нажмите, чтобы открыть меню'
 DONATE_MENU_FAST_MESSAGE_NAME: 'Быстрые сообщения'
@@ -389,6 +407,21 @@ DONATE_MENU_GUI_LORE:
 - '§7для донатеров'
 - ''
 - '§e▸ Нажмите, чтобы открыть меню'
+
+#DONATE_GUI
+GUI_DONATE_GUI_NAME: 'Привилегии'
+GUI_DONATE_GUI_ITEM_NAME: '§bПривилегии'
+
+GUI_DONATE_GOLD_ITEM_LORE: 
+- 'gold_lore'
+GUI_DONATE_DIAMOND_ITEM_LORE: 
+- 'diamond_lore'
+GUI_DONATE_EMERALD_ITEM_LORE: 
+- 'emerald_lore'
+GUI_DONATE_MAGMA_ITEM_LORE: 
+- 'magma_lore'
+GUI_DONATE_SHULKER_ITEM_LORE: 
+- 'shulker_lore'
 
 #HELP MENU
 GUI_HELP_NAME: 'Информация'
