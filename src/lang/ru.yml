@@ -412,8 +412,8 @@ DONATE_MENU_JOIN_MESSAGE_LORE:
 - '§7команду §a/jmsg §7или §a/joinmessage'
 - ''
 - '§e▸ Нажмите, чтобы открыть настройку сообщений'
-DONATE_MENU_GLOW_MESSAGE_NAME: '§bПодсветка вашего персонажа'
-DONATE_MENU_GLOW_MESSAGE_LORE:
+DONATE_MENU_GLOW_NAME: '§bПодсветка вашего персонажа'
+DONATE_MENU_GLOW_LORE:
 - '§8Персональное свечение в лобби'
 - ''
 - '§7Давно мечтали о выделении в лобби?'
