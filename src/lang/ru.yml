@@ -420,6 +420,8 @@ GLOW_CHANGE_LORE:
 GLOW_CHANGE_LORE2:
 - ''
 - '§aПрефикс выбран'
+GLOW_SET: 'todo glow set locate'
+NO_GLOW_SET: 'todo no glow set locate'
 
 DONATE_MENU_JOIN_MESSAGE_NAME: '§eСообщения при входе'
 DONATE_MENU_JOIN_MESSAGE_LORE:
