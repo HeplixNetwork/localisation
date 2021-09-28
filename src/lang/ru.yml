@@ -170,10 +170,14 @@ LOGIN_CHAT: 'login'
 LOGIN_TITLE: 'lt'
 LOGIN_SUBTITLE: 'lsub'
 
+VK_ENTER_CONFIRM_NEED_CHAT: '&FПОДТВЕРДИТЕ ВХОД В &9ВК &FДЛЯ ТОГО ЧТОБЫ ВОЙТИ В ИГРУ'
+VK_ENTER_CONFIRM_NEED_TITLE: '&FПОДТВЕРЖДЕНИЕ &9ВК'
+VK_ENTER_CONFIRM_NEED_SUBTITLE: '&FПОЖАЛУЙСТА ПОДТВЕРДИТЕ В &9ВК'
+
 TIME_LEFT: 'timeleft'
 
 LIMIT_IP_REACHED: 'esf'
-ILLEGAL_NAME-CHARS: '§cВ вашем никнейме содержатся недопустимые символы!'
+ILLEGAL_NAME_CHARS: '§cВ вашем никнейме содержатся недопустимые символы!'
 ATTEMPTS_LIMIT: '§cВы достигли лимита ввода паролей!'
 AUTH_SERVERS_CONNECTION_REFUSED: '§CОШИБКА ПРИ ПОДКЛЮЧЕНИИ К СЕРВЕРУ АВТОРИЗАЦИИ. ПОЖАЛУЙСТА ПОПРОБУЙТЕ ПОЗЖЕ'
 GAME_SERVERS_CONNECTION_REFUSED: '§CОШИБКА ПРИ ПОДКЛЮЧЕНИИ К СЕРВЕРУ ЛОББИ. ПОЖАЛУЙСТА ПОПРОБУЙТЕ ПОЗЖЕ'
@@ -217,7 +221,7 @@ VK_ENTER_CONFIRMED: '&aВы подтвердили аккаунт в вк'
 VK_ENTER_DECLINED: '&cВы отклонили вход с аккаунта ВК'
 
 AUTOCONNECT: 'вы зашли по сессии'
-CHECK-NAME-CASE-FAILED: 'ffff'
+CHECK_NAME_CASE_FAILED: 'ffff'
 
 #LOBBY MAIN
 #HIDER
