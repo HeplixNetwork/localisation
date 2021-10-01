@@ -279,20 +279,31 @@ REWARD_HOLOGRAM:
 - '§7Ежедневные награды'
 - '%s'
 REWARDS_CANT_USE: '§cHeplix §8- §fЕжедненые награды доступны только с 5 уровня!'
-GUI_REWARDS_NAME: 'todo'
-GUI_REWARDS_ITEM_1_LORE:
-- '§6todo lore1'
-GUI_REWARDS_ITEM_2_LORE:
-- '§6todo lore2'
-GUI_REWARDS_ITEM_3_LORE:
-- '§6todo lore3'
-GUI_REWARDS_ITEM_4_LORE:
-- '§6todo lore4'
-GUI_REWARDS_ITEM_5_LORE:
-- '§6todo lore5'
-GUI_REWARDS_ITEM_INFO_NAME: 'todo'
-GUI_REWARDS_ITEM_INFO_LORE:
-- '§6todo'
+REWARDS_GUI_NAME: 'todo'
+REWARD_CLICK_TO_CLAIM:
+- 'ff'
+REWARD_YOU_CAN_CLAIM_IN:
+- 'ff'
+REWARD_VOTE_ITEM: ''
+REWARD_VOTE_ITEM_LORE: 
+- 'dd'
+REWARD_DONATE_ITEM: ''
+REWARD_DONATE_ITEM_LORE: 
+- 'ddd'
+REWARD_YOU_GOT_REWARDS: 'dd'
+BONUSES_1: 'dadaw %s'
+EXP_REWARD_LOCALE: 'dd %s'
+KEYS_REWARD_LOCALE: 'dd %s'
+MONEY_REWARD_LOCALE: 'dd %s'
+DAILY_REWARD_KEY: 'ccc'
+WEEKLY_REWARD_KEY: 'ccc'
+MONTHLY_REWARD_KEY: 'ccc'
+DAILY_REWARD_LORE_KEY: 
+- 'cc %s'
+WEEKLY_REWARD_LORE_KEY: 
+- 'cc %s'
+MONTHLY_REWARD_LORE_KEY: 
+- 'cc %s'
 
 #PROFILE GUI
 PROFILE_BACK_ITEM_NAME: '§cНазад'
