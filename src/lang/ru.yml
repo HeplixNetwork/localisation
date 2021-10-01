@@ -276,34 +276,74 @@ ITEMS_LOBBY_FAST_LORE:
 
 #DAILYREWARDS
 REWARD_HOLOGRAM:
-- '§7Ежедневные награды'
-- '%s'
+- '§bНаграды'
+- '§7Нажмите, чтобы открыть'
 REWARDS_CANT_USE: '§cHeplix §8- §fЕжедненые награды доступны только с 5 уровня!'
-REWARDS_GUI_NAME: 'todo'
+REWARDS_GUI_NAME: 'Награды'
 REWARD_CLICK_TO_CLAIM:
-- 'ff'
+- ' '
+- ' §e▸ Нажмите, чтобы получить награду'
 REWARD_YOU_CAN_CLAIM_IN:
-- 'ff'
+- ' '
+- '§7Можно будет получить через:'
+- '§e%s'
+- ' '
+- ' §c▸ Награда уже получена'
 REWARD_VOTE_ITEM: ''
 REWARD_VOTE_ITEM_LORE: 
 - 'dd'
-REWARD_DONATE_ITEM: ''
-REWARD_DONATE_ITEM_LORE: 
-- 'ddd'
-REWARD_YOU_GOT_REWARDS: 'dd'
-BONUSES_1: 'dadaw %s'
-EXP_REWARD_LOCALE: 'dd %s'
-KEYS_REWARD_LOCALE: 'dd %s'
-MONEY_REWARD_LOCALE: 'dd %s'
-DAILY_REWARD_KEY: 'ccc'
-WEEKLY_REWARD_KEY: 'ccc'
-MONTHLY_REWARD_KEY: 'ccc'
+REWARD_DONATE_ITEM: '§eОнлайн-покупка'
+REWARD_DONATE_ITEM_LORE:
+- ' '
+- '§7Если доступных наград нет,'
+- '§7а монетки или ключи уж очень'
+- '§7нужны, Вы можете посетить наш'
+- '§7онлайн-магазин и приобрести их'
+- '§7по адресу §cheplix.net'
+REWARD_YOU_GOT_REWARDS: '§fВы успешно получили следующие награды:'
+
+MONEY_REWARD_LOCALE: ' §7+ §6%s §f%s'
+RUBY_REWARD_LOCALE: ' §7+ §e%s §f%s'
+EXP_REWARD_LOCALE: ' §7+ §a%s §fопыта'
+KEYS_REWARD_LOCALE: ' §7+ §d%s §f%s'
+
+DAILY_REWARD_KEY: 'Ежедневные награды'
+WEEKLY_REWARD_KEY: 'Еженедельные награды'
+MONTHLY_REWARD_KEY: 'Ежемесячные награды'
 DAILY_REWARD_LORE_KEY: 
-- 'cc %s'
+- ' '
+- '§7Ежедневный бонус, который'
+- '§7включает в себя:'
+- '§8 • §fМонеты §7(от §6100 §7до §6200§7)'
+- '§8 • §fОпыт §7(от §a100 §7до §a300§7)'
 WEEKLY_REWARD_LORE_KEY: 
-- 'cc %s'
+- ' '
+- '§7Еженедельный бонус, который'
+- '§7включает в себя:'
+- '§8 • §fМонеты §7(от §6300 §7до §6400§7)'
+- '§8 • §fОпыт §7(от §a700 §7до §a1.000§7)'
+- '§8 • §fКосметические ключи §7(от §d2§7 до §d3§7)'
+- '§8 • §fИгровые ключи §7(от §d1§7 до §d2§7)'
 MONTHLY_REWARD_LORE_KEY: 
-- 'cc %s'
+- ' '
+- '§7Ежемесячный бонус, который'
+- '§7включает в себя:'
+- '§8 • §fМонеты §7(от §6800 §7до §61.200§7)'
+- '§8 • §fОпыт §7(от §a1.500 §7до §a2.000§7)'
+- '§8 • §fКосметические ключи §7(от §d4§7 до §d6§7)'
+- '§8 • §fИгровые ключи §7(от §d2§7 до §d4§7)'
+- '§8 • §fКосметико-игровые ключи §7(от §d1§7 до §d2§7)'
+
+REWARDS_1:
+- 'бонус'
+- ''
+- 'а'
+- 'ов'
+AVAILABLE_1:
+- 'Доступ'
+- 'ен'
+- 'но'
+- 'но'
 
 #PROFILE GUI
 PROFILE_BACK_ITEM_NAME: '§cНазад'
