@@ -332,14 +332,16 @@ ITEMS_LOBBY_FAST_LORE:
 
 #HOLOGRAMS
 HOLO_DONATE:
-- 'huihuihui'
+- 'доната нету'
+HOLO_INFO:
+- 'информация отсутствует :('
 #DAILYREWARDS
 REWARD_HOLOGRAM:
 - '§bНаграды'
 - '§7Нажмите, чтобы открыть'
 REWARDS_CANT_USE: '§cHeplix §8- §fЕжедненые награды доступны только с 5 уровня!'
 REWARD_GUI_NAME: 'Награды'
-GUI_REWARD_CLICK_TO_CLAIM:
+GUI_REWARDS_CLICK_TO_CLAIM:
 - ' '
 - ' §e▸ Нажмите, чтобы получить награду'
 GUI_REWARD_YOU_CAN_CLAIM_IN:
