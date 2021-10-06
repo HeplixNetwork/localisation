@@ -109,6 +109,11 @@ TIME_SECOND_1:
 - ''
 - 'у'
 - 'ы'
+TIME_SECOND_2:
+- 'second'
+- ''
+- 's'
+- 's'
 KEYS_1:
 - 'ключ'
 - ''
