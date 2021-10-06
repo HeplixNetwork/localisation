@@ -285,21 +285,21 @@ REWARD_HOLOGRAM:
 - '§bНаграды'
 - '§7Нажмите, чтобы открыть'
 REWARDS_CANT_USE: '§cHeplix §8- §fЕжедненые награды доступны только с 5 уровня!'
-REWARDS_GUI_NAME: 'Награды'
-REWARD_CLICK_TO_CLAIM:
+GUI_REWARDS_GUI_NAME: 'Награды'
+GUI_REWARD_CLICK_TO_CLAIM:
 - ' '
 - ' §e▸ Нажмите, чтобы получить награду'
-REWARD_YOU_CAN_CLAIM_IN:
+GUI_REWARD_YOU_CAN_CLAIM_IN:
 - ' '
 - '§7Можно будет получить через:'
 - '§e%s'
 - ' '
 - ' §c▸ Награда уже получена'
-REWARD_VOTE_ITEM: ''
-REWARD_VOTE_ITEM_LORE: 
+GUI_REWARD_VOTE_ITEM: ''
+GUI_REWARD_VOTE_ITEM_LORE: 
 - 'dd'
-REWARD_DONATE_ITEM: '§eОнлайн-покупка'
-REWARD_DONATE_ITEM_LORE:
+GUI_REWARD_DONATE_ITEM: '§eОнлайн-покупка'
+GUI_REWARD_DONATE_ITEM_LORE:
 - ' '
 - '§7Если доступных наград нет,'
 - '§7а монетки или ключи уж очень'
@@ -313,16 +313,16 @@ RUBY_REWARD_LOCALE: ' §7+ §e%s §f%s'
 EXP_REWARD_LOCALE: ' §7+ §a%s §fопыта'
 KEYS_REWARD_LOCALE: ' §7+ §d%s §f%s'
 
-DAILY_REWARD_KEY: 'Ежедневные награды'
-WEEKLY_REWARD_KEY: 'Еженедельные награды'
-MONTHLY_REWARD_KEY: 'Ежемесячные награды'
-DAILY_REWARD_LORE_KEY: 
+GUI_DAILY_REWARD_KEY: 'Ежедневные награды'
+GUI_WEEKLY_REWARD_KEY: 'Еженедельные награды'
+GUI_MONTHLY_REWARD_KEY: 'Ежемесячные награды'
+GUI_DAILY_REWARD_LORE_KEY: 
 - ' '
 - '§7Ежедневный бонус, который'
 - '§7включает в себя:'
 - '§8 • §fМонеты §7(от §6100 §7до §6200§7)'
 - '§8 • §fОпыт §7(от §a100 §7до §a300§7)'
-WEEKLY_REWARD_LORE_KEY: 
+GUI_WEEKLY_REWARD_LORE_KEY: 
 - ' '
 - '§7Еженедельный бонус, который'
 - '§7включает в себя:'
@@ -330,7 +330,7 @@ WEEKLY_REWARD_LORE_KEY:
 - '§8 • §fОпыт §7(от §a700 §7до §a1.000§7)'
 - '§8 • §fКосметические ключи §7(от §d2§7 до §d3§7)'
 - '§8 • §fИгровые ключи §7(от §d1§7 до §d2§7)'
-MONTHLY_REWARD_LORE_KEY: 
+GUI_MONTHLY_REWARD_LORE_KEY: 
 - ' '
 - '§7Ежемесячный бонус, который'
 - '§7включает в себя:'
@@ -359,7 +359,7 @@ PROFILE_BACK_ITEM_LORE:
 PROFILE_BACK_ITEM_LORE2: 
 - '§7Нажмите, чтобы вернуться'
 - '§7назад в донат-меню'
-ITEMS_LOBBY_SELECTORS_NAME: 'Выбор лобби'
+ITEMS_LOBBY_SELECTORS_NAME: '§eВыбор лобби'
 ITEMS_LOBBY_SELECTORS_LORE: 
 - '§6todo'
 
