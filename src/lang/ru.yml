@@ -230,6 +230,9 @@ AUTOCONNECT: 'вы зашли по сессии'
 CHECK_NAME_CASE_FAILED: 'ffff'
 
 #LOBBY MAIN
+#TOPS
+HOLO_TOP_MAIN: 'holotop main'
+TOP_POSITION: 'top pos'
 #HIDER
 HIDER_COOLDOWN: '§cЧасы перегрелись, осталось %s до охлаждения...'
 HIDER_ENABLE_NAME: '§aПоказать игроков'
