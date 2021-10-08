@@ -1297,7 +1297,9 @@ TRANSFER_ERROR_FORMAT: '§6Перевод §8- §fНекорректная су�
 TRANSFER: '§6Перевод §8- §fСумма перевода (учитывая комиссию 3%) - §6'
 
 #skyblock
-
+KIT_ONE: 'kitone'
+KIT_ONE_LORE:
+- 'kitlore'
 ISLAND_TOP_MONEY_HOLO:
 - 'money string 1299'
 ISLAND_TOP_LEVEL_HOLO:
