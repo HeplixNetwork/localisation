@@ -1294,6 +1294,11 @@ TRANSFER_ERROR_FORMAT: '§6Перевод §8- §fНекорректная су�
 TRANSFER: '§6Перевод §8- §fСумма перевода (учитывая комиссию 3%) - §6'
 
 #skyblock
+
+ISLAND_TOP_MONEY_HOLO:
+- 'money string 1299'
+ISLAND_TOP_LEVEL_HOLO:
+- 'level string 1301'
 SKYBLOCK_SHOP_BLOCKS: 'Магазин блоков'
 SKYBLOCK_SHOP_FARMING: 'Магазин фермерства'
 SKYBLOCK_SHOP_RES: 'Магазин ресурсов'
