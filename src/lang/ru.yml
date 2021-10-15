@@ -183,9 +183,8 @@ BALANCE_1: |-
     §f             §6Баланс
     §f     На вашем аккаунте:
     §f
-    §f         %s
-BALANCE_2: |-
-    §c         %s
+    §f         %s %s
+    §c         %s %s
     
 MESSAGE_NOT_FOUND: '§cСообщение %s не найдено'
 
