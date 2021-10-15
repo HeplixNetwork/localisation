@@ -171,14 +171,23 @@ ARENA_RESTART: '§cСервер перезагружается...'
 ENABLE: 'Включено'
 DISABLE: 'Отключено'
 
-COOLDOWN: '§cПодождите %s %s перед следующим использованием'
-COOLDOWN_2: '§cПодождите %s перед следующим использованием'
+COOLDOWN: |-
+    §f
+    §cПодождите %s %s перед следующим использованием
+    §f
+COOLDOWN_2: |-
+    §f
+    §cПодождите %s %s перед следующим использованием
+    §f
 COOLDOWN_SEND_MESSAGE: '§cПодождите %s перед следующим использованием оффлайн сообщений (если вы будете писать друзьями, то лимита не будет)'
-AFK: '§cНе стой на месте!'
+AFK: |-
+    §f
+    §cНе стой на месте!
+    §f
 AFK_TITLE: '§cНе стой на месте!'
 AFK_ACTIONBAR: '§fВы будете перемещены в &eLimbo &fчерез %s'
 
-BALANCE_1: |-
+BALANCE_COMMAND: |-
     
     §f             §6Баланс
     §f     На вашем аккаунте:
@@ -197,9 +206,9 @@ HOLIDAY_HEAD_FOUND_COUNT_BOARD: 'Найдено подарков: §a'
 HOLIDAY_COUNTDOWN: 'Новый Год через: §a'
 ENCHANT_TITLE: 'Чары'
 
-ERROR_COMMAND: '§cОшибка, пишите %s'
-ERROR_COMMAND_IN_GAME: '§cДанная команда недоступна во время игры'
-ERROR_COMMAND_IN_LOBBY: '§cДанная команда доступна только во время игры'
+ERROR_COMMAND: '§cHeplix §8- §fОшибка! Пишите %s'
+ERROR_COMMAND_IN_GAME: '§cHeplix §8- §fОшибка! Данная команда недоступна во время игры'
+ERROR_COMMAND_IN_LOBBY: '§cHeplix §8- §fОшибка! Данная команда доступна только во время игры'
 ERROR_TO_LOBBY: '§cОшибка при телепортации в лобби'
 ERROR_TO_AUTH: '§cОшибка при телепортации в лобби авторизации'
 CHANNEL_NOT_FOUND: '§cКанал %s не найден'
@@ -209,12 +218,15 @@ LIMBO_ITEM_NAME: '§eВернуться в лобби §7[ПКМ]'
 LIMBO_ITEM_LORE: 
 - '§7Используйте этот предмет,'
 - '§7чтобы вернуться в главное лобби'
-
-#AUTH
-AUTH_ITEM_BOOK_NAME: 'todo'
-AUTH_ITEM_BOOK_LORE: 
+LIMBO_SIGH:
 - 'todo'
 
+#AUTH
+AUTH_ITEM_BOOK_NAME: '§eРежим авторизации §7[ПКМ]'
+AUTH_ITEM_BOOK_LORE: 
+- '§7Используйте этот предмет,'
+- '§7чтобы выбрать режим авторизации'
+#
 AUTOCONNECT: |-
     
     &6Авторизация &8- &fСессия успешно востановленна!
@@ -625,6 +637,10 @@ PROFILE_MAIN_ITEM_LANG_LORE2:
 - '§cошибки по ссылке https://vk.cc/c62lCu'
 - ''
 - '§e▸ Открыть меню языков'
+PROFILE_LANG_ITEM_LORE1: '§7Сменить язык на %s'
+PROFILE_LANG_ITEM_LORE2: '§e▸ Нажмите, чтобы сменить язык'
+PROFILE_LANG_ITEM_LORE3: '§aВыбран'
+PROFILE_BACK_ITEM_NAME: '§cНазад'
 
 ITEMS_LOBBY_ENABLE_LORE:
 - '§7Нажмите, чтобы отключить'
