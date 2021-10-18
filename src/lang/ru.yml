@@ -3,6 +3,7 @@ LANGUAGE_CHANGE: |-
     
     §cHeplix §8- §fВаш язык изменен на: §c%s
     
+LANG_COMMAND_USAGE: '§cHeplix §8- §fОшибка! Используйте: §e/lang <язык> (доступные языки: English, Russian)'
 
 JANUARY: 'Январь'
 FEBRUARY: 'Февраль'
