@@ -63,6 +63,10 @@ ANSWER_NO: 'Нет'
 ABSENT: 'Отсутствует'
 REMOVED: '§cУдалено'
 
+PLAYTIME_COMMAND: |-
+    
+    §cHeplix §8- §fВы наигали: %s
+    
 JOIN_PLAYER_LO_LOBBY: ' §a‣ %s §fзашел на сервер'
 
 LOBBY_DISABLED_MESSAGE_TO_CHAT: |-
@@ -161,8 +165,13 @@ RUBY_1:
 - ''
 
 #дата
-TIME_HOURS_1:
+TIME_YEAR_1:
 - 'год'
+- ''
+- 'а'
+- ''
+TIME_HOURS_1:
+- 'час'
 - ''
 - 'а'
 - ''
@@ -607,7 +616,7 @@ PROFILE_MAIN_ITEM_PLAYER_LORE:
 - ' §fСкин: §f%s'
 - ''
 - ' §fВремени наиграно:'
-- '  §f%s'
+- '  §7%s'
 - ''
 
 PROFILE_MAIN_ITEM_LEVEL_NAME: '§dУровень'
