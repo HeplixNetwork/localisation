@@ -584,10 +584,10 @@ PROFILE_MAIN_ITEM_PLAYER_LORE:
 - '§7  Ваш уровень: §d%s '
 - ''
 - ' §fСкин: §f%s'
-#- ''
-#- ' §fВремени наиграно:'
-#- '  §f%s'
-#- ''
+- ''
+- ' §fВремени наиграно:'
+- '  §f%s'
+- ''
 
 PROFILE_MAIN_ITEM_LEVEL_NAME: '§dУровень'
 PROFILE_MAIN_ITEM_LEVEL_LORE: 
