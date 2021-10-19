@@ -586,7 +586,7 @@ PROFILE_MAIN_ITEM_PLAYER_LORE:
 - ' §fСкин: §f%s'
 - ''
 - ' §fВремени наиграно:'
-- '  §f%s %s %s %s'
+- '  §f%s %s %s %sff'
 - ''
 
 PROFILE_MAIN_ITEM_LEVEL_NAME: '§dУровень'
