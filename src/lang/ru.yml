@@ -444,6 +444,9 @@ BOX_KEYS: '§dКлючи §f(§6+%s§f)'
 BOX_EXP: '§eОпыт §f(§a+%s§f)'
 BOX_MONEY: '§aМонеты §f(§6+%s§f)'
 BOX_RUBY: '§cРубины §f(§c+%s§f)'
+BOX_BUY_LORE:
+- '§e Нажмите ЛКМ, чтобы открыть ключ'
+- '§e Нажмите ПКМ, чтобы купить ключи'
 ITEM_ALREADY_HAVE: '§bСундук удачи §8- §fУ вас уже есть данный предмет, вы получили §6+%s %s'
 
 DEFAULT_KEY: '§bКосметичний ключ'
@@ -474,6 +477,7 @@ GAME_COSMETIC_KEY_LORE:
 - '§cВнимание! При выбивании уже существующего'
 - '§cпредмета вы получите от 500 до 2000 монет!'
 MONEY_KEY: '§dДенежный ключ'
+MONEY_KEY: 'todo убрать вообще этот ключ'
 GROUP_KEY: '§eДонатный ключ'
 GROUP_KEY_LORE:
 - ''
@@ -494,9 +498,11 @@ COMMON: 'Обычный'
 RARE: 'Редкий'
 EPIC: 'Эпический'
 LEGENDARY: 'Легендарный'
-ITEM_DONATE_ALREADY_HAVE: '' #todo локализация
+ITEM_DONATE_ALREADY_HAVE: '§bСундук удачи §8- §fУ вас уже есть данная привелегия, вы получили §6+%s %s' #todo доделать в самих кейсах
 
 BOX_GUI_NAME: 'Открытие кейса'
+BOX_GUI_LORE:
+- 'nope'
 BOX_GUI_HELP_NAME: '§bПомощь с ключами'
 BOX_GUI_HELP_LORE:
 - '§7Используйте ключи чтобы'
