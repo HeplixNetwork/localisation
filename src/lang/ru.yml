@@ -160,6 +160,27 @@ RUBY_1:
 - 'ов'
 - ''
 
+#TimeUtil
+TIME_HOURS_1:
+- 'hour'
+- ''
+- 's'
+- 's'
+TIME_MINUTES_1:
+- 'minute'
+- ''
+- 's'
+- 's'
+TIME_DAY_1:
+- 'd'
+- 'ay'
+- 'ays'
+- 'ays'
+TIME_SECOND_2:
+- 'second'
+- ''
+- 's'
+- 's'
 
 FW: '§aСалют!'
 
@@ -586,7 +607,7 @@ PROFILE_MAIN_ITEM_PLAYER_LORE:
 - ' §fСкин: §f%s'
 - ''
 - ' §fВремени наиграно:'
-- '  §f%sd %sh %sm'
+- '  §f%s'
 - ''
 
 PROFILE_MAIN_ITEM_LEVEL_NAME: '§dУровень'
