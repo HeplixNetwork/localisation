@@ -1165,6 +1165,7 @@ GAMEMENU_ITEM_SLIMEFUN_LORE:
 - '§7Играет: §a%s§7 %s'
 - ''
 - '§e▸ Нажмите, чтобы подключиться'
+GAMEMENU_ITEM_ARCADEGAMES_NAME: '§3ArcadeGames §6§lСкоро!'
 GAMEMENU_ITEM_SKYWARS_NAME: '§eSkyWars'
 GAMEMENU_ITEM_SKYWARS_LORE:
 - ''
