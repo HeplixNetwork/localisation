@@ -1129,15 +1129,14 @@ GAMEMENU_ITEM_MAINLOBBY_LORE:
 - ''
 - '§e▸ Нажмите, чтобы выбрать лобби'
 
-GAMEMENU_ITEM_ANARCHY_NAME: ''
+GAMEMENU_ITEM_ANARCHY_NAME: '§bАнархия'
 GAMEMENU_ITEM_ANARCHY_LORE:
 - ''
 - '§7Играет: §a%s§7'
 - ''
 - '§e▸ Нажмите, чтобы подключиться'
-GAMEMENU_ITEM_SKYBLOCK_NAME: '§aSkyBlock §c§lНовый!'
+GAMEMENU_ITEM_SKYBLOCK_NAME: '§bSkyBlock §c§lНовый!'
 GAMEMENU_ITEM_SKYBLOCK_LORE:
-- '§8Выживание на острове'
 - ''
 - '§7Играйте с друзьями, стройте'
 - '§7свой крутой остров, собирайте'
@@ -1153,9 +1152,7 @@ GAMEMENU_ITEM_QUARANTINE_LORE:
 - ''
 GAMEMENU_ITEM_SLIMEFUN_NAME: '§dТехно-Магия §c§lНовый!'
 GAMEMENU_ITEM_SLIMEFUN_LORE:
-- '§8РПГ-режим'
 - ''
-- '§eОписание режима:'
 - '§7Уникальный Техно-Магический режим без модов,'
 - '§7в котором есть огромная система прокачки,'
 - '§7море оружий, а так-же гильдии и необычные'
@@ -1165,21 +1162,21 @@ GAMEMENU_ITEM_SLIMEFUN_LORE:
 - '§7Играет: §a%s§7'
 - ''
 - '§e▸ Нажмите, чтобы подключиться'
-GAMEMENU_ITEM_ARCADEGAMES_NAME: '§3ArcadeGames §6§lСкоро!'
-GAMEMENU_ITEM_SKYWARS_NAME: '§eSkyWars'
+GAMEMENU_ITEM_ARCADEGAMES_NAME: '§bArcadeGames §6§lСкоро!'
+GAMEMENU_ITEM_SKYWARS_NAME: '§e§lSkyWars'
 GAMEMENU_ITEM_SKYWARS_LORE:
 - ''
 - '§7Играет: §a%s§7'
 - ''
-GAMEMENU_ITEM_EGGWARS_NAME: '§5EggWars'
+GAMEMENU_ITEM_EGGWARS_NAME: '§5§lEggWars'
 GAMEMENU_ITEM_EGGWARS_LORE:
 - ''
 - '§7Играет: §a%s§7'
 - ''
-GAMEMENU_ITEM_BEDWARS_NAME: '§bBedWars'
+GAMEMENU_ITEM_BEDWARS_NAME: '§b§lBedWars'
 GAMEMENU_ITEM_BEDWARS_LORE:
 - ''
-GAMEMENU_ITEM_CREATIVE_NAME: '§2Creative §6§lСкоро!'
+GAMEMENU_ITEM_CREATIVE_NAME: '§2§lCreative §6§lСкоро!'
 GAMEMENU_ITEM_CREATIVE_LORE:
 - ''
 - '§7Играет: §a%s§7'
