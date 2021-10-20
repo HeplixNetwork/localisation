@@ -75,7 +75,7 @@ LOBBY_DISABLED_MESSAGE_TO_CHAT: |-
     
 NO_FOUND_PLAYER: '§cHeplix §8- §fОшибка! Игрок §e%s§f не найден или он оффлайн'
 NO_NEVER_PLAYER: '§cHeplix §8- §fОшибка! Игрок %s никогда прежде не играл на нашем проекте'
-LIST_CMD: '§cHeplix §8- §f%s На сервере §a%s §f%s: %s'
+LIST_CMD: '§cHeplix §8- §fНа сервере %s §a%s §f%s: %s'
 LANG_RELOAD: 'todo'
 #LEVEL_COMMAND_1: '§cИгровой уровень §8- §fУ вас §d%s§f уровень'
 #LEVEL_COMMAND_2: '§cИгровой уровень §8- §fДо следующего уровня необходимо набрать §a%s§f опыта'
@@ -498,7 +498,7 @@ COMMON: 'Обычный'
 RARE: 'Редкий'
 EPIC: 'Эпический'
 LEGENDARY: 'Легендарный'
-GROUP_ALREADY_HAVE: '§bСундук удачи §8- §fУ вас уже есть данная привелегия, вы получили §6+%s %s' #todo доделать в самих кейсах
+GROUP_ALREADY_HAVE: '§bСундук удачи §8- §fУ вас уже есть данная привелегия, вы получили §6+%s' #todo доделать в самих кейсах
 
 BOX_GUI_NAME: 'Открытие кейса'
 BOX_GUI_LORE:
