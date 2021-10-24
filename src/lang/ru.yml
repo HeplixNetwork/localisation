@@ -636,6 +636,14 @@ AVAILABLE_1:
 - 'но'
 - 'но'
 
+#PAGE_ARROW
+PAGE_ARROW_GUI: 'страница'
+PAGE_ARROW1: '§aСледующая страница'
+PAGE_ARROW2: '§cПредыдущая страница'
+PAGE_ARROW_LORE:
+- '§7Нажмите чтобы перейти'
+- '§7на %s страницу'
+
 #PROFILE GUI
 PROFILE_BACK_ITEM_NAME: '§cНазад'
 PROFILE_BACK_ITEM_LORE: 
