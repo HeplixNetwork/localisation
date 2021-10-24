@@ -32,6 +32,7 @@ BOSS_BAR_LOBBY:
 - '§c§lСКИДКИ 30%! §fВ ЧЕСТЬ ОТКРЫТИЯ ПРОЕКТА ПО ПРОМОКОДУ §a§lOPEN§r'
 - '§fПОКУПКА §eДОНАТА §fНА САЙТЕ §7► §c§lHEPLIX.NET'
 - '§fГОЛОСОВОЙ ЧАТ СЕРВЕРА §9§lDISCORD §7► §e§lDISCORD.HEPLIX.NET'
+BOSS_BAR_LOBBY_JOIN: '§fВЫ ИГРАЕТЕ НА §7► §c§lPLAY.HEPLIX.NET'
 
 RULES_COMMAND: '§cHeplix §8- §fПолный список правил проекта - '
 RULES_COMMAND_HOVER: '§fНажмите сюда, чтобы перейти по ссылке'
@@ -176,7 +177,7 @@ TIME_HOURS_1:
 - 'час'
 - ''
 - 'а'
-- ''
+- 'ов'
 TIME_MINUTES_1:
 - 'минут'
 - 'у'
@@ -574,17 +575,17 @@ REWARD_GUI_NAME: 'Награды'
 GUI_REWARDS_CLICK_TO_CLAIM:
 - ' '
 - ' §e▸ Нажмите, чтобы получить награду'
-GUI_REWARD_YOU_CAN_CLAIM_IN:
+REWARD_YOU_CAN_CLAIM_IN:
 - ' '
 - '§7Можно будет получить через:'
 - '§e%s'
 - ' '
 - ' §c▸ Награда уже получена'
-GUI_REWARD_VOTE_ITEM: ''
-GUI_REWARD_VOTE_ITEM_LORE: 
+REWARD_VOTE_ITEM: 'вв'
+REWARD_VOTE_ITEM_LORE: 
 - 'dd'
-GUI_REWARD_DONATE_ITEM: '§eОнлайн-покупка'
-GUI_REWARD_DONATE_ITEM_LORE:
+REWARD_DONATE_ITEM: '§eОнлайн-покупка'
+REWARD_DONATE_ITEM_LORE:
 - ' '
 - '§7Если доступных наград нет,'
 - '§7а монетки или ключи уж очень'
