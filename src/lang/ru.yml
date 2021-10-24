@@ -178,12 +178,12 @@ TIME_HOURS_1:
 - ''
 - 'а'
 - 'ов'
-TIME_MINUTES_1:
+TIME_MINUTES_2:
 - 'минут'
 - 'у'
 - 'ы'
 - ''
-TIME_MINUTES_2:
+TIME_MINUTES_1:
 - 'минут'
 - 'а'
 - 'ы'
