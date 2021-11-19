@@ -1215,18 +1215,47 @@ GAMEMENU_ITEM_SLIMEFUN_LORE:
 - '§7море оружий, а так-же гильдии и необычные'
 - '§7мобы. Сражайтесь за точку гильдии,'
 - '§7повышайте ваш уровень, открывайте новые предметы!'
-GAMEMENU_ITEM_ARCADEGAMES_NAME: '§bArcadeGames §6§lСкоро!'
+
 GAMEMENU_ITEM_SKYWARS_NAME: '§e§lSkyWars'
 GAMEMENU_ITEM_SKYWARS_LORE:
+- '§8Воздушные войны'
+- ''
+- '§7Вы появляетесь на острове,'
+- '§7и ваша цель скинуть/убить всех'
+- '§7игроков на вашей карте.'
+- '§7У вас нет права на ошибку, 1 ошибка'
+- '§7и вы летите вниз.'
 - ''
 GAMEMENU_ITEM_EGGWARS_NAME: '§5§lEggWars'
 GAMEMENU_ITEM_EGGWARS_LORE:
+- '§8Битвы на островах'
+- ''
+- '§7Защищайте своё яйцо и'
+- '§7пытайтесь уничтожить яйца противников'
+- '§7Бейтесь против других команд,'
+- '§7улучшайте генераторы'
 - ''
 GAMEMENU_ITEM_BEDWARS_NAME: '§b§lBedWars'
 GAMEMENU_ITEM_BEDWARS_LORE:
+- '§8Дожили, защищать кровать...'
+- ''
+- '§7Как насчёт сыграть в мини-игру'
+- '§7для улучшения командной игры?'
+- '§7Играйте втроём, четвером'
+- '§7А может Вы у нас соло игрок?'
+- '§7Ну, думаю, вам стоит заглянуть!'
 - ''
 GAMEMENU_ITEM_CREATIVE_NAME: '§2§lCreative §6§lСкоро!'
 GAMEMENU_ITEM_CREATIVE_LORE:
+- ''
+GAMEMENU_ITEM_ARCADEGAMES_NAME: '§bArcadeGames §6§lСкоро!'
+GAMEMENU_ITEM_ARCADEGAMES_LORE:
+- '§8Аркадные игры'
+- ''
+- '§7Аркадные игры - это сборник'
+- '§7мини-игр, таких как:'
+- ''
+- ' §8§l⋄ §fBuildBattle'
 - ''
 
 GAMEMENU_ONLINE_LORE: '§8На режиме играет %s %s'
@@ -2745,3 +2774,132 @@ LIGHT_PURPLE: 'Розовый'
 YELLOW: 'Желтый'
 WHITE: 'Белый'
 DARK_PURPLE: 'Фиолетовый'
+
+
+#===========
+#   CORE
+#===========
+#Core friends messages
+FRIENDS_ADD_FORMAT: '§cДрузья §- §fИспользуйте - §6/f add <ник>'
+FRIENDS_REMOVE_FORMAT: '§cДрузья §- §fИспользуйте - §6/f remove <ник>'
+FRIENDS_ACCEPT_FORMAT: '§cДрузья §- §fИспользуйте - §6/f accept <ник>'
+FRIENDS_DENY_FORMAT: '§cДрузья §- §fИспользуйте - §6/f deny <ник>'
+FRIENDS_TP_FORMAT: '§cДрузья §- §fИспользуйте - §6/f tp <ник>'
+FRIEND_HELP:
+  - '§e§lДрузья §- §fПомощь по командам:'
+  - ' §7Добавить игрока в друзья - §e/friends add <ник>'
+  - ' §7Удалить игрока из друзей - §e/friends remove <ник>'
+  - ' §7Принять запрос в друзья - §e/friends accept <ник>'
+  - ' §7Отклонить запрос в друзья - §e/friends deny <ник>'
+  - ' §7Посмотреть список своих друзей - §e/friends list'
+  - ' §7Посмотреть список запросов в друзья - §e/friends requests'
+  - ' §7Телепортация на сервер друга - §e/friends tp <ник>'
+FRIEND_ADD_ERROR_DUPLICATE_REQUEST: '§e§lДрузья §- §fДанный игрок уже приглашал Вас в друзья'
+FRIEND_ADD_ERROR_HAS_REQUEST: '§e§lДрузья §- §cОшибка, Вы уже отправляли запрос в друзья данному игроку...'
+FRIEND_ADD_ERROR_IS_FRIEND: '§e§lДрузья §- §cОшибка, Вы уже являетесь друзьями!'
+FRIEND_ADD_ERROR_YOURSELF_AS_FRIEND: '§e§lДрузья §- §cОшибка, Вы не можете отправить заявку в друзья самому себе'
+FRIEND_ADD_SUCCESS_SEND: '§e§lДрузья §- §fЗапрос в друзья отправлен игроку %player%'
+FRIEND_REMOVE_ERROR_HAS_FRIEND: '§e§lДрузья §- §cОшибка, данный игрок не является Вашим другом!'
+FRIEND_SUCCESS_REMOVE_FRIEND: '§e§lДрузья §- §fИгрок %player% §fбыл удален из вашего списка друзей'
+FRIENDS_DONT_HAVE_INVITES: '§e§lДрузья §- §fНа данный момент у Вас нет актуальных запросов в друзья!'
+FRIEND_LIST: "§e§lДрузья §- §fСписок Ваших друзей: §e(%count%)"
+FRIEND_LIST_NO_FRIENDS:
+  - "§cПростите, но список Ваших друзей пуст :("
+  - "§cПополните его, добавив их командой /friends add <ник игрока>"
+FRIEND_LIST_REQUESTS: "§e§lДрузья §- §fСписок актуальных запросов: §e(%count%)"
+FRIENDS_NEW_FRIEND: '§e§lДрузья §- §fПоздравляем! Вы стали друзьями с игроком %player%'
+FRIENDS_YOU_REJECTED_REQUEST: '§e§lДрузья §- §fВы отклонили запрос в друзья от игрока %player%'
+FRIENDS_REQUEST_REJECTED: '§e§lДрузья §- §fИгрок %player% §fотклонил Ваш запрос в друзья'
+FRIENDS_DONT_HAVE_INVITES_FROM: '§e§lДрузья §- §cОшибка! Данный игрок не отправлял Вам приглашение на дружбу.'
+
+# Core Party messages
+NO_PARTY_HELP:
+  - '§6Компания §8- §fПомощь по командам:'
+  - ' §7Отправить запрос - §e/party invite <ник игрока>'
+  - ' §7Принять запрос - §e/party accept <ник игрока>'
+  - ' §7Отклонить запрос - §e/party cancel <ник игрока>'
+HAS_PARTY_HELP:
+  - '§6Компания §8- §fПомощь по командам:'
+  - ' §7Отправить запрос - §e/party invite <ник игрока>'
+  - ' §7Чат группы - §e/party chat <сообщение>'
+  - ' §7Список игроков в группе - §e/party list'
+  - ' §7Удалить игрока из группы - §e/party kick <ник игрока>'
+  - ' §7Телепортировать группу на сервер - §e/party warp'
+  - ' §7Выйти из группы - §e/party leave'
+  - ' §7Удалить группу - §e/party disband'
+PARTY_ADD_FORMAT: '§6Компания §8- §fИспользуйте - §6/party invite <ник игрока>'
+PARTY_REMOVE_FORMAT: '§6Компания §8- §fИспользуйте - §6/party remove <ник игрока>'
+PARTY_ADD_DUPLICATE: '§6Компания §8- §cError, you can t add yourself as a PARTY!'
+PARTY_ADD_IS_PARTY: '§6Компания §8- §cError, this player is already your PARTY!'
+PARTY_ADD_HAS_REQUEST: '§6Компания §8- §cError, you have already submitted a request to add this player as a party!'
+PARTY_ADD_SUCCESS_SENDER: '§6Компания §8- §fYou have successfully accepted a party request from %player%'
+PARTY_ADD_SUCCESS_MEMBER: '§6Компания §8- %player% §faccepted your application as a PARTY!'
+PARTY_SUCCESS_MEMBER: '§6Компания §8- %player% §foffers to become your PARTY!'
+PARTY_SUCCESS_SENDER: '§6Компания §8- §fYou have successfully submitted your application %player% §f, wait for his response!!!'
+PARTY_ALERT: '§6Компания §8- %player% §fприсоединился к группе'
+
+# Core online messages
+GLOBAL_ONLINE: '§cHeplix §8- §fОбщий онлайн сервера - §e%online%'
+ONLINE_BY_PREFIX: '§cHeplix §8- §fОбщий серверов по префиксу §e%prefix% - §e%online%'
+ONLINE_BY_SERVER: '§cHeplix §8- §fОнлайн сервера §e%prefix% - §e%online%'
+
+# Core streams
+STREAM_ADD_FORMAT: '§cHeplix §8- §fИспользуйте - §6/stream add <ссылка>'
+STREAM_ADD_ERROR_ALREADY_STREAMING: '§cHeplix §8- §cОшибка! У Вас уже есть запущенный стрим!'
+STREAM_ADD_ERROR_UNKNOWN_STREAM_URL: '§cHeplix §8- §cОшибка! Ссылка на стрим введена неверно!'
+STREAM_ADD_SUCCESS_STREAM: '§cHeplix §8- §fВаш стрим под ссылкой §e%stream% §fбыл успешно добавлен!'
+STREAM_ADD_ERROR_NOT_STREAMING: '§cHeplix §8- §cОшибка! Запущенных стримов не найдено!'
+STREAM_REMOVE_SUCCESS_STREAM: '§cHeplix §8- §fВы успешно удалили свой стрим!'
+STREAM_HELP_FORMAT:
+  - '§6§lStreams §8:: §fСписок доступных команд:'
+  - ' §8- §7Добавить стрим - §6/stream add <ссылка>'
+  - ' §8- §7Удалить стрим - §6/stream remove'
+  - ' §8- §7Посмотреть доступные стримы - §6/streams'
+
+STREAM_NEW_ANNOUNCE:
+  - ''
+  - ' §8| §c§lВНИМАНИЕ! %streamer% §fзапустил трансляцию на %platform%'
+  - ' §8| §fНазвание: §e%stream_title%'
+  - ' §8| §fЗрителей: §e§a%viewers%'
+  - ''
+
+STREAMS_ANNOUNCE:
+  - ''
+  - ' §c§lВНИМАНИЕ! §fНа сервере сейчас идет §b%count% §fпрямых трансляций!'
+  - ''
+
+STREAM_UPDATE_REMOVED: '§cHeplix §8- §fВаш стрим &7%stream_title% &fбыл удален, так как он больше не актуален!'
+
+# Core chat module
+STAFF_CHAT_FORMAT: '§cHeplix §8- §fИспользуйте - §6/staffchat <сообщение>'
+STAFF_CHAT_ERROR_DUPLICATE_ON: '§cHeplix §8- §cЧат персонала для Вас уже включен!'
+STAFF_CHAT_ERROR_DUPLICATE_OFF: '§cHeplix §8- §cЧат персонала для Вас уже выключен!'
+STAFF_CHAT_SUCCESS_ON: '§cHeplix §8- §fЧат персонала был успешно включен!'
+STAFF_CHAT_SUCCESS_OFF: '§cHeplix §8- §fЧат персонала был успешно выключен!'
+STAFF_CHAT_OFF: '§cHeplix §8- §cЧат персонала отключен, Вы не можете сюда писать!'
+DONATE_CHAT_FORMAT: '§cHeplix §8- §fИспользуйте - §6/donatechat <сообщение>'
+DONATE_CHAT_ERROR_DUPLICATE_ON: '§cHeplix §8- §cЧат донатеров для Вас уже включен!'
+DONATE_CHAT_ERROR_DUPLICATE_OFF: '§cHeplix §8- §cЧат донатеров для Вас уже выключен!'
+DONATE_CHAT_SUCCESS_ON: '§cHeplix §8- §fЧат донатеров был успешно включен!'
+DONATE_CHAT_SUCCESS_OFF: '§cHeplix §8- §fЧат донатеров был успешно выключен!'
+DONATE_CHAT_OFF: '§cHeplix §8- §cЧат донатеров отключен, Вы не можете сюда писать!'
+CHAT_COOLDOWN: '§cHeplix §8- §cОшибка, до повторного использования данной команды подождите еще %time%'
+
+MESSAGE_CHAT_FORMAT: '§cHeplix §8- §fИспользуйте - §6/message <ник> <сообщение>'
+REPLY_CHAT_FORMAT: '§cHeplix §8- §fИспользуйте - §6/reply <сообщение>'
+IGNORE_CHAT_FORMAT: '§cHeplix §8- §fИспользуйте - §6/ignore <ник>'
+CHAT_ERROR_MESSAGE_YOURSELF: '§cHeplix §8- §cОшибка, Вы не можете написать самому себе!'
+CHAT_ERROR_MESSAGE_OFF: '§cHeplix §8- §cОшибка, Данный игрок отключил личные сообщения!'
+CHAT_ERROR_MESSAGE_IGNORE: '§cHeplix §8- §cОшибка, Данный игрок игнорирует Вас!'
+CHAT_ERROR_MESSAGE_PLAYER_OFFLINE: '§cHeplix §8- §cОшибка, получатель сообщения не найдены!'
+CHAT_ERROR_MESSAGE_NO_REPLY: '§cHeplix §8- §cОшибка, Вам еще не писали личных сообщений'
+CHAT_ERROR_IGNORE_YOURSELF: '§cHeplix §8- §cОшибка, Вы не можете игнорировать сами себя!'
+CHAT_SUCCESS_IGNORE_ALL_ON: '"§cHeplix §8- §fТеперь игроки могут отправлять вам личные сообщения.'
+CHAT_SUCCESS_IGNORE_ALL_OFF: '§cHeplix §8- §fТеперь игроки не могут отправлять вам личные сообщения.'
+
+CHAT_HOVER:
+  - '§7Статистика %player%§7:'
+  - '  §7Уровень: §d%level%'
+  - '  §7EXP: §e%exp%§8/§c%max_exp%'
+  - ''
+  - '§e▸ Нажмите, чтобы отправить личное сообщение'
