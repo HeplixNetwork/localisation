@@ -2871,13 +2871,13 @@ STREAMS_ANNOUNCE:
 STREAM_UPDATE_REMOVED: '§cHeplix §8- §fВаш стрим &7%stream_title% &fбыл удален, так как он больше не актуален!'
 
 # Core chat module
-STAFF_CHAT_FORMAT: '§cHeplix §8- §fИспользуйте - §6/staffchat <сообщение>'
+STAFF_CHAT_FORMAT: '§cHeplix §8- §fИспользуйте - §e/staffchat <сообщение>'
 STAFF_CHAT_ERROR_DUPLICATE_ON: '§cHeplix §8- §cЧат персонала для Вас уже включен!'
 STAFF_CHAT_ERROR_DUPLICATE_OFF: '§cHeplix §8- §cЧат персонала для Вас уже выключен!'
 STAFF_CHAT_SUCCESS_ON: '§cHeplix §8- §fЧат персонала был успешно включен!'
 STAFF_CHAT_SUCCESS_OFF: '§cHeplix §8- §fЧат персонала был успешно выключен!'
 STAFF_CHAT_OFF: '§cHeplix §8- §cЧат персонала отключен, Вы не можете сюда писать!'
-DONATE_CHAT_FORMAT: '§cHeplix §8- §fИспользуйте - §6/donatechat <сообщение>'
+DONATE_CHAT_FORMAT: '§cHeplix §8- §fИспользуйте - §e/donatechat <сообщение>'
 DONATE_CHAT_ERROR_DUPLICATE_ON: '§cHeplix §8- §cЧат донатеров для Вас уже включен!'
 DONATE_CHAT_ERROR_DUPLICATE_OFF: '§cHeplix §8- §cЧат донатеров для Вас уже выключен!'
 DONATE_CHAT_SUCCESS_ON: '§cHeplix §8- §fЧат донатеров был успешно включен!'
@@ -2905,6 +2905,6 @@ CHAT_HOVER:
   - '§e▸ Нажмите, чтобы отправить личное сообщение'
   
 #CORE server
-SERVER_HELP:
+SERVER_HELP: ''
 ALREADY_CONNECTION: '§cHeplix §8- §cОшибка! Вы уже находитесь на этом сервере.'
 SERVER_NOT_FOUND: '§cHeplix §8- §cОшибка! Сервер %s не подключен к Core!'
