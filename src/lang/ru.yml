@@ -2839,9 +2839,9 @@ PARTY_SUCCESS_SENDER: '§6Компания §8- §fYou have successfully submitt
 PARTY_ALERT: '§6Компания §8- %player% §fприсоединился к группе'
 
 # Core online messages
-GLOBAL_ONLINE: '§cHeplix §8- §fОбщий онлайн сервера - §e%online%'
-ONLINE_BY_PREFIX: '§cHeplix §8- §fОбщий серверов по префиксу §e%prefix% - §e%online%'
-ONLINE_BY_SERVER: '§cHeplix §8- §fОнлайн сервера §e%prefix% - §e%online%'
+GLOBAL_ONLINE: '§cHeplix §8- §fОбщий онлайн сервера - §e%s'
+ONLINE_BY_PREFIX: '§cHeplix §8- §fОбщий серверов по префиксу §e%s - §e%online%'
+ONLINE_BY_SERVER: '§cHeplix §8- §fОнлайн сервера §e%s - §e%online%'
 
 # Core streams
 STREAM_ADD_FORMAT: '§cHeplix §8- §fИспользуйте - §6/stream add <ссылка>'
