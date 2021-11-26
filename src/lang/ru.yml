@@ -2908,3 +2908,6 @@ CHAT_HOVER:
 SERVER_HELP: ''
 ALREADY_CONNECTION: '§cHeplix §8- §cОшибка! Вы уже находитесь на этом сервере.'
 SERVER_NOT_FOUND: '§cHeplix §8- §cОшибка! Сервер %s не подключен к Core!'
+
+
+# Сообщения при входе.
