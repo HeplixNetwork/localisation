@@ -50,10 +50,10 @@ NO_PERMS_GROUP: |-
     §f          §fКупите %s§c или выше для получения 
     §f          доступа к множеству функций.
     §f 
-NO_PERMS_SHULKER_ONLY: |-
+NO_PERMS_CRYSTAL_ONLY: |-
     §f 
     §cHeplix §8- §fОшибка! У вас недостаточно прав.
-    §f         §fданная функция доступна только для §7§lSHULKER
+    §f         §fданная функция доступна только для §7§lCRYSTAL
     §f 
 KILL_MOB: '§6+%s %s за убийство моба'
 
@@ -518,7 +518,7 @@ GROUP_KEY: '§eДонатный ключ'
 GROUP_KEY_LORE:
 - ''
 - '§7Используется для получения'
-- '§7бесплатного статуса от §e§lGOLD §7до §7§lSHULKER'
+- '§7бесплатного статуса от §e§lGOLD §7до §7§lCRYSTAL'
 - ''
 - '§cВнимание! При выбивании уже существующего'
 - '§cстатуса вы получите от 10 до 40 золота!'
@@ -817,7 +817,7 @@ DONATE_MENU_PREFIX_NAME: 'Смена префикса'
 DONATE_MENU_PREFIX_LORE:
 - '§7Смена цвета префикса'
 - ''
-- '§7Доступно только для §7§lSHULKER'
+- '§7Доступно только для §7§lCRYSTAL'
 - ''
 - '§7Текущий префикс: %s'
 - ''
@@ -834,7 +834,7 @@ DONATEMENU_GLOW_NAME: 'Выбор цвета эффекта свечения'
 DONATEMENU_GLOW_LORE:
 - '§7Смена цвета эффекта свечения'
 - ''
-- '§7Доступно только для §7§lSHULKER'
+- '§7Доступно только для §7§lCRYSTAL'
 - ''
 - '§7Текущий выбранный цвет: %s'
 - ''
@@ -987,10 +987,10 @@ GUI_DONATE_DIAMOND_ITEM_LORE:
 - 'diamond_mainlobby_lore'
 GUI_DONATE_EMERALD_ITEM_LORE: 
 - 'emerald_mainlobby_lore'
-GUI_DONATE_MAGMA_ITEM_LORE: 
-- 'magma_mainlobby_lore'
-GUI_DONATE_SHULKER_ITEM_LORE: 
-- 'shulker_mainlobby_lore'
+GUI_DONATE_AMETHYST_ITEM_LORE: 
+- 'AMETHYST_mainlobby_lore'
+GUI_DONATE_CRYSTAL_ITEM_LORE: 
+- 'CRYSTAL_mainlobby_lore'
 
 #HELP MENU
 GUI_HELP_NAME: 'Информация'
@@ -1007,8 +1007,8 @@ GUI_HELP_ITEM_2_LORE:
 - ' §8§l⋄ §e§lGOLD §7- §f100 Рублей'
 - ' §8§l⋄ §b§lDIAMOND §7- §f300 Рублей'
 - ' §8§l⋄ §a§lEMERALD §7- §f590 Рублей'
-- ' §8§l⋄ §c§lMAGMA §7- §f900 Рублей'
-- ' §8§l⋄ §7§lSHULKER §7- §f2100 Рублей'
+- ' §8§l⋄ §c§lAMETHYST §7- §f900 Рублей'
+- ' §8§l⋄ §7§lCRYSTAL §7- §f2100 Рублей'
 - ''
 - '§7Подробное описание привилегий можно'
 - '§7найти в разделе §fПрофиль ▸ Привилегии'
@@ -1096,7 +1096,7 @@ GUI_HELP_ITEM_8_LORE:
 - '§fДоступные множители:'
 - ' §8§l⋄ §e§lGOLD §7и §b§lDIAMOND §7- §e1.5x'
 - ' §8§l⋄ §a§lEMERALD §7- §e1.75x'
-- ' §8§l⋄ §c§lMAGMA §7и §7§lSHULKER- §e2.0x'
+- ' §8§l⋄ §c§lAMETHYST §7и §7§lCRYSTAL- §e2.0x'
 - ''
 - '§7Приобрести привилегии можно'
 - '§7на сайте §cstore.heplix.net'
@@ -1131,7 +1131,7 @@ GUI_HELP_ITEM_10_LORE:
 - '§7Напиши §e/guild §7и создай свою гильдию!'
 - ''
 - '§cВНИМАНИЕ! Создание гильдии стоит'
-- '§c20.000 монеток и доступно только от §c§lMAGMA'
+- '§c20.000 монеток и доступно только от §c§lAMETHYST'
 - '§cДля вступления в гильдию нужен 10+ уровень!'
 GUI_DONATE_MAIN_NAME: 'Привилегии'
 GUI_DONATE_ITEM_1_NAME: 'Привилегия'
