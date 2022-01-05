@@ -257,11 +257,15 @@ MESSAGE_NOT_FOUND: '§cСообщение %s не найдено'
 
 HOLIDAY_HEAD_FOUND_TITLE: '§6§lПоздравляем!'
 HOLIDAY_HEAD_FOUND_SUBTITLE: '§fВы нашли подарок §a%s§f/§c%s'
+HOLIDAY_HEAD_FOUND_ACTIONBAR: '§fВы получили: §6+100 монет§f, §a+75 xp'
 HOLIDAY_HEAD_FOUND_ALL_TITLE: '§a§lС Новым Годом!'
 HOLIDAY_HEAD_FOUND_ALL_SUBTITLE: '§6Вы нашли все подарки!'
+HOLIDAY_HEAD_FOUND_ALL_ACTIONBAR: '§fВы получили: §6+6000 монет§f, §a+5000 xp§f, §a+30 ключей'
 HOLIDAY_HEAD_FOUND_COUNT: 'Найдено подарков: §a%s§f/§a%s'
 HOLIDAY_HEAD_FOUND_COUNT_BOARD: 'Найдено подарков: §a'
 HOLIDAY_COUNTDOWN: 'Новый Год через: §a'
+
+
 ENCHANT_TITLE: 'Чары'
 
 ERROR_COMMAND: |-
