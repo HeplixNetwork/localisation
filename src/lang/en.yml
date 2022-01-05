@@ -1,5 +1,7 @@
-LANGUAGE_CHANGE: '§cHeplix §8- §fYour language has been changed to §c%s'
-
+LANGUAGE_CHANGE: |-
+    §f 
+    §cHeplix §8- §fYour language has been changed to §c%s'
+    §f 
 JANUARY: 'January'
 FEBRUARY: 'February'
 MARCH: 'March'
