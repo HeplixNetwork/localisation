@@ -143,6 +143,22 @@ LEVELING_LOAD_LORE:
 - '§7Информация о ваших уровнях загружается'
 - '§7или награды отсутствуют вовсе...'
 
+#words
+AIRDROP_1:
+- ящик
+- ''
+- а
+- ов
+AVAILABLE_1:
+- Доступ
+- ен
+- но
+- но
+BOOSTER_1:
+- бустер
+- ''
+- а
+- ов
 MONEY_1:
 - 'монет'
 - 'а'
@@ -158,15 +174,120 @@ PLAYERS_1:
 - ''
 - 'а'
 - 'ов'
+HOMES_1:
+- дом
+- а
+- ов
+- ов
+HOMES_2:
+- дом
+- ''
+- а
+- ов
+KEYS_1:
+- ключ
+- ''
+- а
+- ей
+KILLS_1:
+- убийств
+- о
+- а
+- ''
+KILLS_STAT: Убийств
+MAPS_1:
+- карт
+- а
+- ы
+- ''
+MOBS_1:
+- моб
+- ''
+- а
+- ов
+MOBS_TOP_KILLS_HOLO:
+- §6§lТоп по убийствам
+- §fТоп игроков по кол-ву
+- §fубитых мобов
+MONEY_1:
+- монет
+- а
+- ы
+- ''
+MONEY_2:
+- монет
+- y
+- ы
+- ''
+PLAYERS_1:
+- игрок
+- ''
+- а
+- ов
+POINTS_1:
+- очк
+- о
+- а
+- ов
+RATING_1:
+- рейтинга
+- ''
+- ''
+- ''
+REPORTS_1:
+- жалоб
+- а
+- ы
+- ''
+RETRIES_1:
+- попыт
+- ка
+- ки
+- ок
+REWARDS_1:
+- бонус
+- ''
+- а
+- ов
+TIME_DAY_1:
+- д
+- ень
+- ня
+- ней
+TIME_HOURS_1:
+- час
+- ''
+- а
+- ов
+TIME_MINUTES_1:
+- минут
+- у
+- ы
+- ''
+TIME_MINUTES_2:
+- минут
+- а
+- ы
+- ''
 TIME_SECOND_1:
-- 'секунд'
-- 'ы'
-- 'у'
-- 'а'
+- секунд
+- у
+- ы
+- ''
 TIME_SECOND_2:
-- 'секунд'
-- 'а'
-- 'ы'
+- секунд
+- а
+- ы
+- ''
+WARPS_1:
+- варп
+- а
+- ов
+- ов
+WINS_1:
+- побед
+- а
+- ы
 - ''
 KEYS_1:
 - 'ключ'
@@ -182,6 +303,11 @@ RUBY_2:
 - 'рубин'
 - ''
 - 'ы'
+REWARDS_1:
+- 'бонус'
+- ''
+- 'а'
+- 'ов'
 
 #дата
 TIME_YEAR_1:
@@ -674,16 +800,6 @@ GUI_MONTHLY_REWARD_LORE_KEY:
 - '§8 • §fИгровые ключи §7(от §d2§7 до §d4§7)'
 - '§8 • §fКосметико-игровые ключи §7(от §d1§7 до §d2§7)'
 
-REWARDS_1:
-- 'бонус'
-- ''
-- 'а'
-- 'ов'
-AVAILABLE_1:
-- 'Доступ'
-- 'ен'
-- 'но'
-- 'но'
 
 #PAGE_ARROW
 PAGE_ARROW_GUI: 'страница'
@@ -2936,3 +3052,73 @@ YOU_DISABLED_STAFFCHAT: §cВы отключили чат персонала. Ч
 PLAYER_NAME_REGEX_FAILED: 'REGEX FAIL'
 
 HELP_PAPER_FOR: '§e▸ Подкоманды для %s:'
+
+#REPORTS
+REPORT_ACCEPT_FORMAT: /report accept <ник> <id причины>
+REPORT_ALLOW_USAGE: /report allow <минимальная группа>
+REPORT_ALREADY_SENT: §cВы уже отправляли жалобу на этого игрока
+REPORT_BROADCAST_PLAYER_GUILTY: §cМодерация §8| §7%s §7посчитал, что §e%s §f- §cвиновен
+REPORT_BROADCAST_PLAYER_INNOCENT: §cМодерация §8| §7%s §7посчитал, что §e%s §f- §aневиновен
+REPORT_GUI_ACTION: Выбор действия
+REPORT_GUI_ACTION_GUILTY: §cИгрок виновен
+REPORT_GUI_ACTION_GUILTY_LORE:
+- ''
+- §7Игрок не получит наказания. Все
+- §7отправители жалоб получат оповещение
+- §7о том, что он виновен.
+- ''
+- §e▸ Нажмите, чтобы одобрить жалобу
+REPORT_GUI_ACTION_INNOCENT: §aИгрок невиновен
+REPORT_GUI_ACTION_INNOCENT_LORE:
+- ''
+- §e▸ Нажмите, чтобы отклонить жалобу
+REPORT_GUI_ITEM_GAME_STATE: '§7Стадия игры: §a%s'
+REPORT_GUI_ITEM_NAME: §eЖалоба на %s
+REPORT_GUI_ITEM_SERVER: '§7Сервер: §a%s'
+REPORT_GUI_ITEM_VERSION: '§7Версия: §a%s'
+REPORT_GUI_LAST_REPORT: §e%s назад
+REPORT_GUI_LAST_REPORT_TITLE: '§7Последняя жалоба:'
+REPORT_GUI_MAIN: Список жалоб
+REPORT_GUI_MAIN_LORE: |-
+    §f
+    §fВсего жалоб: §e%s
+REPORT_GUI_SENDERS_TITLE: '§7Список пожаловавшихся:'
+REPORT_GUI_SPECTATORS_TITLE: '§7Список следящих:'
+REPORT_GUI_TOTAL_REPORTS: '§7Всего жалоб: §c%s'
+REPORT_GUI_TP_TITLE: |-
+    §e▸ ЛКМ, чтобы начать следить за игроком
+    §e▸ ПКМ, чтобы отклонить жалобу
+REPORT_HELP: |-
+    §7/report list §f- список жалоб
+    §7/report info <ник> §f- информация о жалобе
+    §7/report accept <ник> <id причины> §f- принятие жалобы и бан игрока
+    §7/report decline <ник> §f- отказ в жалобе
+REPORT_INFO_MESSAGES: |-
+    '§6Жалобы §8| §fИнформация об игроке §e%s:'
+    ' - §fЖаловались: §a%s'
+    ' - §fСейчас следят: §a%s'
+    ' - §fПоследняя жалоба: §a%s назад'
+REPORT_INVALID_GROUP_TO_USE: §cHeplix §8- §fОшибка! Минимальная группа для использования не может
+  быть ниже, чем §2§lJUNIOR
+REPORT_INVALID_REASON: §cHeplix §8- §fОшибка! Неверный id причины
+REPORT_ITS_YOU: §cВы не можете отправить жалобу на самого себя
+REPORT_MINIMAL_GROUP_CHANGED: §aВы изменили минимальную группу для просмотра жалоб
+  на %s
+REPORT_NO_PERM_FOR_ACTIONS: §cЖалобы §8- §fПринимать решения по жалобам могут только
+  модераторы и выше.
+REPORT_NO_REPORT: §cЖалоб нет
+REPORT_NO_REPORT_PLAYER: §cНа этого игрока не поступало жалоб
+REPORT_PLAYER_GUILTY: §cЖалобы §8- §e%s §fрассмотрел Вашу жалобу на игрока §e%s §fи
+  одобрил её. Спасибо за содействие в поимке!
+REPORT_PLAYER_INNOCENT: §cЖалобы §8- §e%s §fотклонил Вашу жалобу на игрока §e%s
+REPORT_PLAYER_IS_STAFF: §cВы не можете отправить жалобу на персонал проекта
+REPORT_PLAYER_PUNISHED: §cЖалобы §8- §fИгрок %s§f, на которого Вы подавали жалобу
+  был наказан. Спасибо за содействие в поимке!
+REPORT_PLAYER_STARTED_SPECTATE: §cМодерация §8- §7%s §7отправился следить за §7%s
+REPORT_SENT_FIRST: §cЖалобы §8- §fЖалоба отправлена. Чтобы ее рассмотрели модераторы
+  необходимо, чтобы еще один человек подал жалобу на игрока
+REPORT_SENT_NOT_FIRST: §cЖалобы §8- §fЖалоба отправлена. Вы не первый, кто жаловался
+  на этого игрока, наши §9модераторы§f были оповещены
+REPORT_UNKNOWN_REASON: Неизвестная причина
+REPORT_USAGE: /report <ник> <причина>
+TOO_MANY_REPORTS: §cЖалобы §8- §fНа игрока %s §fпоступило уже §c%s §fжалоб(ы)
