@@ -2916,23 +2916,23 @@ SERVER_NOT_FOUND: '§cHeplix §8- §cОшибка! Сервер %s не подк
 
 # Сообщения при входе.
 
-#group command
-GROUP_HELP:
-- ''
-- 'group help'
+GROUP_CHANGES_BROADCAST: §cМодерация §8- §7%s §fобновил донат-группу игрока %s
+GROUP_COMMAND_HELP:
+- §7/group clear <ник>§f - снятие привилегии
+- §7/group migrate <старый ник> <новый ник>§f - перенос привилегии
+- §7/group set <ник> <донат-группа> §f- обновить привилегию
+GROUP_INVALID: '§cМодерация §8- §fОшибка! §fВы указали неверную группу. Доступные группы: §fDEFAULT, GOLD, DIAMOND,
+  EMERALD, AMETHYST, CRYSTAL'
+GROUP_PLAYER_ALREADY_DEFAULT: §cHeplix §8- §fОшибка! §fУ данного игрока нет привилегии
+GROUP_PLAYER_GROUP_CHANGED: §cHeplix §8- §fИгроку %s §eбыла установлена привилегия %s
+GROUP_SET_FORMAT: /group set <ник> <донат-группа>
 
-GROUP_PLAYER_GET_USAGE: 'GROUP GET USAGE'
-GROUP_PLAYER_GET_OTHER: 'GROUP GET OTHER'
-
-GROUP_PLAYER_SET_USAGE: 'GROUP SET USAGE'
-GROUP_PLAYER_SET_SUCCESS: 'GROUP SET SUCCESS'
-
-GROUP_PLAYER_PURGE_USAGE: 'GROUP PURGE USAGE'
-GROUP_PLAYER_PURGE_SUCCESS: 'GROUP PURGE SUCCESS'
-
-GROUP_PLAYER_MERGE_USAGE: 'GROUP MERGE USAGE'
-GROUP_PLAYER_MERGE_SUCCESS: 'MERGE SUCCESS'
-
+YOU_CANT_CHANGE_DONATE: §cВы не можете управлять привилегиями данного игрока
+YOU_CANT_CHANGE_PRIORITY:
+- §c▸ Нельзя изменять приоритет этого ранга
+YOU_DISABLED_STAFFCHAT: §cВы отключили чат персонала. Чтобы писать в него, напишите
+  /sc toggle
+  
 PLAYER_NAME_REGEX_FAILED: 'REGEX FAIL'
 
 HELP_PAPER_FOR: '§e▸ Подкоманды для %s:'
