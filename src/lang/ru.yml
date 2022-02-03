@@ -3,7 +3,7 @@ LANGUAGE_CHANGE: |-
     §f 
     §cHeplix §8- §fВаш язык изменен на §6%s
     §f 
-LANG_COMMAND_USAGE:  |-
+LANG_COMMAND_USAGE: |-
     §f 
     §cHeplix §8- §fОшибка! Используйте: §e/lang <язык> §7(доступные языки: English, Russian)
     §f 
